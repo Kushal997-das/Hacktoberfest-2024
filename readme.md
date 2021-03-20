@@ -1,4 +1,4 @@
-# :star_struck: Hacktoberfest_2020 :star_struck:
+# :star_struck: Hacktoberfest_2021 :star_struck:
 
 ![](https://github.com/chandrikadeb7/Hacktoberfest_2020/blob/main/readme%20pic.jpeg)
 
