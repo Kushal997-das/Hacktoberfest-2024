@@ -1,7 +1,7 @@
 # :star_struck: Hacktoberfest_2021 :star_struck:
 
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+<p align="center"><img src="https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/files/hack211.jpg" alt="Web Developement Image" width=800px />
 
 ### This repository aims to help code beginners with their first successful pull request and open source contribution. :partying_face:
 
