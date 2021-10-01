@@ -11,7 +11,6 @@
 
 ### This repository is open to all members of the GitHub community. Any member can contribute to this project! :grin:
 
-:point_right: Repo Link : [https://github.com/chandrikadeb7/Hacktoberfest_2020](https://github.com/chandrikadeb7/Hacktoberfest_2020)
 
 ## What is Hacktoberfest? :thinking:
 A month-long celebration from October 1st to October 31st presented by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/) collaborated with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open-source developer community.
@@ -19,7 +18,7 @@ A month-long celebration from October 1st to October 31st presented by [Digital 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
 
 
-## Rules :fire:
+### Rules :fire:
 To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2020 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 70,000__ participants who complete the challenge will earn a T-shirt.
 
 ## Choose from these tasks :rainbow:
@@ -53,18 +52,9 @@ You can take help from one of my blogs :point_right: [Visit Blog](https://medium
 
 :eyes: Upload your contribution here in this folder [Task 2](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%202)
 
-## Task 3: [Show Your Algorithm Skills](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%203) :rocket:
-Help us in making a one-stop place to find necessary codes and articles, which can vary from `Hello World` to `Dynamic Programming` in any language of your choice.  
-:star: The file structure will be as follows:
 
-```
-<algorithm name>/
-├── <implementation file> (With commented sample input/output. In any language including C/Java/Python etc.)
-```
 
-:eyes: Upload your contribution here in this folder [Task 3](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%203)
-
-## Choose one or all 3, make a pull request for your work and wait for it to be merged! :heart:
+## Choose one or all 2, make a pull request for your work and wait for it to be merged! :heart:
 
 
 ## Steps to follow :scroll:
