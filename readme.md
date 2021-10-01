@@ -42,8 +42,10 @@ Add any programming question and its solution in a separate folder and make your
 <name of program>/
 ├── question.md
 ├── <solution> (Solution file in any language including C/Java/Python etc.)
+
 ```
 
+ - After submitting your programming questions  don't forget to add your name and github user name [here](https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/1.%20Beginner%20level/TASK%20%231/data.json) <br>
 :eyes: Upload your contribution here in this folder [Task 1](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level/TASK%20%231)
 
 ## Task 2: [Submit your Own portfolio page/ GitHub profiles](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level/TASK%20%232) :eyes:
