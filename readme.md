@@ -1,5 +1,4 @@
-# :star_struck: Hacktoberfest_2021 :star_struck:
-
+<a href="https://github.com/Kushal997-das/Hacktoberfest-2021/"><img align='center' height="30" src="https://img.shields.io/badge/Hacktoberfest-2021-orange.svg?&style=for-the-badge&logo=KD&logoColor=blue" /></a> <br> <br>
 
 <p align="center"><img src="https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/files/hack211.jpg" alt="Web Developement Image" width=800px />
 
