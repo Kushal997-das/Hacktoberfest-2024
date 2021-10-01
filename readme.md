@@ -24,9 +24,9 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
  
  # Hacktoberfest_2021 🌈
   
- - Choose from these tasks below 👍
+ - Choose from these tasks below 👇
       - [Beginner level 📁](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level)
-      - [Intermediate level 📁](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/2.%20Intermediate%20level) <br><br>
+      - [Intermediate level 📁] <br><br>
       
  
 <img height="30" src="https://img.shields.io/badge/Beginner level-green.svg?&style=for-the-badge&logo=Beginner level&logoColor=blue" />
@@ -60,7 +60,18 @@ Add any programming question and its solution in a separate folder and make your
 
 :eyes: Upload your contribution here in this folder [Task 2](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level/TASK%20%232)
 
+<br><br>
+  
 
+ <img height="30" src="https://img.shields.io/badge/Intermediate level -blue.svg?&style=for-the-badge&logo=Beginner level&logoColor=blue" />
+  
+ - You can also contribute these project 👇
+  
+ [Project-Guidance](https://github.com/Kushal997-das/Project-Guidance)
+  
+ |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs 😎  |
+|-------------|-------------------|---|---|
+| [**Project-Guidance**](https://github.com/Kushal997-das/Project-Guidance) | [![GitHub issues](https://img.shields.io/github/issues/Kushal997-das/Project-Guidance?color=green&logo=github&style=flat)](https://github.com/Kushal997-das/Project-Guidance/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Kushal997-das/Project-Guidance?style=flat&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Kushal997-das/Project-Guidance?style=flat&color=critical&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls?q=is%3Apr+is%3Aclosed)   |
 
 
 
@@ -69,21 +80,21 @@ Add any programming question and its solution in a separate folder and make your
 
 ## Contributing :handshake:
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git&logoColor=white)](https://github.com/Kushal997-das/Project-Guidance/pulls)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?color=red)](https://github.com/Kushal997-das/Project-Guidance)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git&logoColor=white)](https://github.com/Kushal997-das/Hacktoberfest_2021/pulls)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?color=red)](https://github.com/Kushal997-das/Hacktoberfest_2021)
 
 > Please read our [Code of Conduct :octocat:](https://github.com/Kushal997-das/Project-Guidance/blob/main/CODE_OF_CONDUCT.md).
 
 
 **We're accepting PRs for our open and unassigned [issues🐛](https://github.com/Kushal997-das/Project-Guidance/issues)**. Please check [CONTRIBUTING.md✨](https://github.com/Kushal997-das/Project-Guidance/blob/main/CONTRIBUTING.md). We'd love your contributions! **Kindly follow the steps below to get started:** 
 
-**0.** Star [this](https://github.com/Kushal997-das/Project-Guidance) repository.
+**0.** Star [this](https://github.com/Kushal997-das/Hacktoberfest_2021) repository.
 
-**1.** Fork [this](https://github.com/Kushal997-das/Project-Guidance) repository.
+**1.** Fork [this](https://github.com/Kushal997-das/Hacktoberfest_2021) repository.
 
 **2.** Clone the forked repository.
 
 ```bash
-git clone https://github.com/<your-github-username>/Project-Guidance
+git clone https://github.com/<your-github-username>/Hacktoberfest_2021
 ```
 
 **3.** Navigate to the project directory.
@@ -116,7 +127,7 @@ git push -u origin <your_branch_name>
 ```
 
 
-**9.** **Congratulations!** :tada: Sit and relax, you've made your contribution to [Project-Guidance](https://github.com/Kushal997-das/Project-Guidance). :v: :heart: 💥
+**9.** **Congratulations!** :tada: Sit and relax, you've made your contribution to [Project-Guidance](https://github.com/Kushal997-das/Hacktoberfest_2021). :v: :heart: 💥
 
 <br><br>
   
