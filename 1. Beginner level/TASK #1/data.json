@@ -6,7 +6,8 @@
     "githubUsername": "Replace with your github user name",
   },
  // Add your details below as above mention
- {
+ 
+  {
   "name": "Love Tyagi",
   "githubUsername": "lovetyagi-17",
 },
@@ -16,4 +17,10 @@
   "githubUsername": "Swapna804",
 },
 
- ]
+  
+  {
+    "name": "Surbhi Mayank",
+    "githubUsername": "surbhi2408",
+  },
+  
+]
