@@ -18,10 +18,16 @@ A month-long celebration from October 1st to October 31st presented by [Digital 
 
 
 ### Rules :fire:
-To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2020 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 70,000__ participants who complete the challenge will earn a T-shirt.
+To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2021 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 70,000__ participants who complete the challenge will earn a T-shirt.
 
-## Choose from these tasks :rainbow:
 
+ 
+ # Hacktoberfest_2021 🌈
+  - [Choose from these tasks below 👍](data_structures/sortings)
+    
+      - [1. Beginner level 📁]()
+      - [2. Intermediate level 📁]()
+ 
 Here are 3 quick and easy ways to contribute to this project:
 
 ## Task 1: [Add your program question and solution](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%201) :innocent:
