@@ -151,14 +151,16 @@ It always takes time to understand and learn. So, do not worry at all. We know y
 </a> <br><br>
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
-  
-  
-  
-    _____ _                 _     __   __          
+ 
+```
+     _____ _                 _     __   __          
  |_   _| |__   __ _ _ __ | | __ \ \ / /__  _   _ 
    | | | '_ \ / _` | '_ \| |/ /  \ V / _ \| | | |
    | | | | | | (_| | | | |   <    | | (_) | |_| |
    |_| |_| |_|\__,_|_| |_|_|\_\   |_|\___/ \__,_|
+                    
+
+```
 
 
 
