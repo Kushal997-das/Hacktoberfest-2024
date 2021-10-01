@@ -81,7 +81,7 @@ Add any programming question and its solution in a separate folder and make your
 
 ## Contributing :handshake:
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git&logoColor=white)](https://github.com/Kushal997-das/Hacktoberfest_2021/pulls)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?color=red)](https://github.com/Kushal997-das/Hacktoberfest_2021)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git&logoColor=white)](https://github.com/Kushal997-das/Hacktoberfest_2021/pulls)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?color=red)](https://github.com/Kushal997-das/Hacktoberfest_2021)[![license](https://img.shields.io/github/license/Kushal997-das/Hacktoberfest_2021.svg?color=red)](https://github.com/Kushal997-das/Hacktoberfest_2021/blob/main/LICENSE)
 
 > Please read our [Code of Conduct :octocat:](https://github.com/Kushal997-das/Project-Guidance/blob/main/CODE_OF_CONDUCT.md).
 
