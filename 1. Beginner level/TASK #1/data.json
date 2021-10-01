@@ -2,9 +2,13 @@
 <!-- Just add your github account details -->
 [
   {
-    "name": "Atherv Patil",
-    "githubUsername": "ColonelAVP",
+    "name": "Replace with your name",
+    "githubUsername": "Replace with your github user name",
     
   },
- 
- ]
+  {
+    "name": "Atherv Patil",
+    "githubUsername": "ColonelAVP",
+
+  }
+]
