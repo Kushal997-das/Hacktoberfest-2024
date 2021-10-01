@@ -46,8 +46,14 @@ Add any programming question and its solution in a separate folder and make your
 
 ## Task 2: [Submit your Own portfolio page/ GitHub profiles](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level/TASK%20%232) :eyes:
  
-- How to add portfolio 🤔
+### How to add portfolio ❓ 🤔
  - [follow this](https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/1.%20Beginner%20level/TASK%20%232/README.md)
+   - Make sure you don't chnage anything in [this](https://github.com/Kushal997-das/Hacktoberfest_2021/edit/master/1.%20Beginner%20level/TASK%20%232/README.md) Just copy this code and add required details -
+ 
+ ```
+ <table width="100%"><tr><td align="center"><p><a href="portfolio link">Your name</a></p><img src=" Image URL " /></td>
+```
+   
 
 - After submitting the profiles don't forget to add your profile details in [data.json](https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/1.%20Beginner%20level/TASK%20%232/data.json)
  
@@ -61,138 +67,69 @@ Add any programming question and its solution in a separate folder and make your
 
 ## Steps to follow :scroll:
 
-### 0. Star The Repo :star2:
+## Contributing :handshake:
 
-Star the repo by pressing the topmost-right button to start your wonderful journey.
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git&logoColor=white)](https://github.com/Kushal997-das/Project-Guidance/pulls)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?color=red)](https://github.com/Kushal997-das/Project-Guidance)
 
-
-### 1. Fork it :fork_and_knife:
-
-You can get your own fork/copy of [HacktoberFest_2020](https://github.com/chandrikadeb7/Hacktoberfest_2020) by using the <a href="https://github.com/chandrikadeb7/Hacktoberfest_2020/new/master?readme=1#fork-destination-box"><kbd><b>Fork</b></kbd></a> button or clicking [this](https://github.com/chandrikadeb7/Hacktoberfest_2020/new/master?readme=1#fork-destination-box) at top-right of your screen.
-
- [![Fork Button](https://help.github.com/assets/images/help/repository/fork_button.jpg)](https://github.com/chandrikadeb7/Hacktoberfest_2020)
+> Please read our [Code of Conduct :octocat:](https://github.com/Kushal997-das/Project-Guidance/blob/main/CODE_OF_CONDUCT.md).
 
 
-### 2. Clone it :busts_in_silhouette:
+**We're accepting PRs for our open and unassigned [issues🐛](https://github.com/Kushal997-das/Project-Guidance/issues)**. Please check [CONTRIBUTING.md✨](https://github.com/Kushal997-das/Project-Guidance/blob/main/CONTRIBUTING.md). We'd love your contributions! **Kindly follow the steps below to get started:** 
 
-`NOTE: commands are to be executed on Linux, Mac, and Windows(using Powershell)`
+**0.** Star [this](https://github.com/Kushal997-das/Project-Guidance) repository.
 
-You need to clone (download) it to local machine using
+**1.** Fork [this](https://github.com/Kushal997-das/Project-Guidance) repository.
 
-```sh
-$ git clone https://github.com/Your_Username/Hacktoberfest_2020.git
+**2.** Clone the forked repository.
+
+```bash
+git clone https://github.com/<your-github-username>/Project-Guidance
 ```
 
-> This makes a local copy of the repository in your machine.
+**3.** Navigate to the project directory.
 
-Once you have cloned the `Hacktoberfest_2020` repository in Github, move to that folder first using change directory command on Linux, Mac, and Windows(PowerShell to be used).
+```bash
+cd Hacktoberfest_2021
 
-```sh
-# This will change directory to a folder Hacktoberfest_2020
-$ cd Hacktoberfest_2020
 ```
 
-Move to this folder for all other commands.
+**4.** Create a new branch.
 
-### 3. Set it up :arrow_up:
-
-Run the following commands to see that *your local copy* has a reference to *your forked remote repository* in Github :octocat:
-
-```sh
-$ git remote -v
-origin  https://github.com/Your_Username/Hacktoberfest_2020.git (fetch)
-origin  https://github.com/Your_Username/Hacktoberfest_2020.git (push)
+```bash
+git checkout -b <your_branch_name>
 ```
 
-Now, let's add a reference to the original [Hacktoberfest_2020](https://github.com/chandrikadeb7/Hacktoberfest_2020/) repository using
+**5.** Make changes.
 
-```sh
-$ git remote add upstream https://github.com/chandrikadeb7/Hacktoberfest_2020.git
+**6.** Stage your changes and commit
+
+```bash
+git add -A
+
+git commit -m "<your_commit_message>"
 ```
 
-> This adds a new remote named ***upstream***.
+**7.** Push your local commits to the remote repo.
 
-See the changes using
-
-```sh
-$ git remote -v
-origin    https://github.com/Your_Username/Hacktoberfest_2020.git (fetch)
-origin    https://github.com/Your_Username/Hacktoberfest_2020.git (push)
-upstream  https://github.com/Remote_Username/Hacktoberfest_2020.git (fetch)
-upstream  https://github.com/Remote_Username/Hacktoberfest_2020.git (push)
-```
-`In your case, you will see`
-```sh
-$ git remote -V
-origin    https://github.com/Your_Username/Hacktoberfest_2020.git (fetch)
-origin    https://github.com/Your_Username/Hacktoberfest_2020.git (push)
-upstream  https://github.com/chandrikadeb7/Hacktoberfest_2020.git (fetch)
-upstream  https://github.com/chandrikadeb7/Hacktoberfest_2020.git (push)
+```bash
+git push -u origin <your_branch_name>
 ```
 
-### 4. Sync it :recycle:
 
-Always keep your local copy of the repository updated with the original repository.
-Before making any changes and/or in an appropriate interval, run the following commands *carefully* to update your local repository.
+**9.** **Congratulations!** :tada: Sit and relax, you've made your contribution to [Project-Guidance](https://github.com/Kushal997-das/Project-Guidance). :v: :heart: 💥
 
-```sh
-# Fetch all remote repositories and delete any deleted remote branches
-$ git fetch --all --prune
-
-# Switch to `main` branch
-$ git checkout main
-
-# Reset local `main` branch to match the `upstream` repository's `main` branch
-$ git reset --hard upstream/main
-
-# Push changes to your forked `Hacktoberfest_2020` repo
-$ git push origin main
-```
-
-### 5. Ready Steady Go... :turtle: :rabbit2:
-
-Once you have completed these steps, you are ready to start contributing by checking our `Good First Issue` Issues and creating [pull requests](https://github.com/chandrikadeb7/Hacktoberfest_2020/pulls).
-
-### 6. Create a new branch :bangbang:
-
-Whenever you are going to contribute. Please create a separate branch using command and keep your `main` branch clean (i.e. synced with remote branch).
-
-```sh
-# It will create a new branch with name Branch_Name and switch to branch Folder_Name
-$ git checkout -b BranchName
-```
-
-Create a separate branch for contribution and try to use the same name of the branch as of folder.
-
-To switch to the desired branch
-
-```sh
-# To switch from one folder to other
-$ git checkout BranchName
-```
-
-To add the changes to the branch. Use
-
-```sh
-# To add all files to branch Folder_Name
-$ git add .
-```
-
-Type in a message relevant for the code reviewer using
-
-```sh
-# This message get associated with all files you have changed
-$ git commit -m 'relevant message'
-```
-
-Now, Push your awesome work to your remote repository using
-
-```sh
-# To push your work to your remote repository
-$ git push -u origin BranchName
-```
-
-Finally, go to your repository in the browser and click on `compare and pull requests`.
-Then add a title and description to your pull request that explains your precious effort.
-
+<br><br>
+  
+  
+## Need more help?🤔  
+You can refer to the following articles on basics of Git and Github and also contact the Project [Mentor](https://github.com/Kushal997-das/), in case you are stuck:  
+- [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)  
+- [Cloning a Repo](https://help.github.com/en/desktop/contributing-to-projects/creating-an-issue-or-pull-request)  
+- [How to create a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)  
+- [Getting started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)  
+- [Learn GitHub from Scratch](https://www.youtube.com/watch?v=BCQHnlnPusY&list=PLozRqGzj97d02YjR5JVqDwN2K0cAiT7VK)  
+  
+Tip from us😇
+-------------
+It always takes time to understand and learn. So, do not worry at all. We know you have got this!💪
 
