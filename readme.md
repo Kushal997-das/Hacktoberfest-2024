@@ -73,6 +73,7 @@ Add any programming question and its solution in a separate folder and make your
 |-------------|-------------------|---|---|
 | [**Project-Guidance**](https://github.com/Kushal997-das/Project-Guidance) | [![GitHub issues](https://img.shields.io/github/issues/Kushal997-das/Project-Guidance?color=green&logo=github&style=flat)](https://github.com/Kushal997-das/Project-Guidance/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Kushal997-das/Project-Guidance?style=flat&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Kushal997-das/Project-Guidance?style=flat&color=critical&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls?q=is%3Apr+is%3Aclosed)   |
 
+  <br><br>
 
 
 
@@ -85,7 +86,6 @@ Add any programming question and its solution in a separate folder and make your
 > Please read our [Code of Conduct :octocat:](https://github.com/Kushal997-das/Project-Guidance/blob/main/CODE_OF_CONDUCT.md).
 
 
-**We're accepting PRs for our open and unassigned [issues🐛](https://github.com/Kushal997-das/Project-Guidance/issues)**. Please check [CONTRIBUTING.md✨](https://github.com/Kushal997-das/Project-Guidance/blob/main/CONTRIBUTING.md). We'd love your contributions! **Kindly follow the steps below to get started:** 
 
 **0.** Star [this](https://github.com/Kushal997-das/Hacktoberfest_2021) repository.
 
