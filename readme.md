@@ -31,7 +31,7 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
  
 <img height="30" src="https://img.shields.io/badge/Beginner level-green.svg?&style=for-the-badge&logo=Beginner level&logoColor=blue" />
 
-## Task 1: [Add your program question and solution](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level/TASK%20%232) :innocent:
+## Task 1: [Add your program question and solution](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level/TASK%20%231) :innocent:
 Add any programming question and its solution in a separate folder and make your way to Open Source.
 
 :star: The file structure will be as follows:
@@ -52,7 +52,7 @@ Add any programming question and its solution in a separate folder and make your
 - After submitting the profiles don't forget to add your profile details in [data.json](https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/1.%20Beginner%20level/TASK%20%232/data.json)
  
 
-:eyes: Upload your contribution here in this folder [Task 2](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%202)
+:eyes: Upload your contribution here in this folder [Task 2](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level/TASK%20%232)
 
 
 
