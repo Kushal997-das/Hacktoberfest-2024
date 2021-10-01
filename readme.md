@@ -127,7 +127,7 @@ git push -u origin <your_branch_name>
 ```
 
 
-**9.** **Congratulations!** :tada: Sit and relax, you've made your contribution to [Project-Guidance](https://github.com/Kushal997-das/Hacktoberfest_2021). :v: :heart: 💥
+**9.** **Congratulations!** :tada: Sit and relax, you've made your contribution to [Hacktoberfest_2021](https://github.com/Kushal997-das/Hacktoberfest_2021). :v: :heart: 💥
 
 <br><br>
   
@@ -144,3 +144,10 @@ Tip from us😇
 -------------
 It always takes time to understand and learn. So, do not worry at all. We know you have got this!💪
 
+
+## Awesome contributors :star_struck:
+<a href="https://github.com/Kushal997-das/Project-Guidance/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Kushal997-das/Project-Guidance" />
+</a> <br><br>
+
+:tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
