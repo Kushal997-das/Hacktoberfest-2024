@@ -2,23 +2,15 @@ package vaishnav.vipul;
 
 import java.util.Arrays;
 
-public class Solution {
+public class solution {
 
     public static void main(String[] args) {
-	    int[][] nums = {
-                {1,1,0},
-                {1,0,1},
-                {0,0,0}
-        };
+        int[][] nums = { { 1, 1, 0 }, { 1, 0, 1 }, { 0, 0, 0 } };
 
-        int[][] outputArr = flipAndInvertImage(nums);
+        int[][] outputArr = flipImage(nums);
         for (int[] ints : outputArr) {
             System.out.println(Arrays.toString(ints));
         }
-    }
-
-    public static int[][] flipAndInvertImage(int[][] image) {
-        return flipImage(image);
     }
 
     public static int[][] flipImage(int[][] image) {
@@ -27,7 +19,6 @@ public class Solution {
         for (int i = 0; i < image.length; i++) {
             output[i] = reverseAndInvert(image[i]);
         }
-
 
         return output;
     }
