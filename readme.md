@@ -75,7 +75,14 @@ Add any programming question and its solution in a separate folder and make your
 |-------------|-------------------|---|---|
 | [**Project-Guidance**](https://github.com/Kushal997-das/Project-Guidance) | [![GitHub issues](https://img.shields.io/github/issues/Kushal997-das/Project-Guidance?color=green&logo=github&style=flat)](https://github.com/Kushal997-das/Project-Guidance/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Kushal997-das/Project-Guidance?style=flat&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Kushal997-das/Project-Guidance?style=flat&color=critical&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls?q=is%3Apr+is%3Aclosed)   |
 
-  <br><br>
+  <br>
+
+[Generation](https://github.com/SamarpanCoder2002/Generation.git)
+
+ |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs 😎  |
+|-------------|-------------------|---|---|
+| [**Generation**](https://github.com/SamarpanCoder2002/Generation) | [![GitHub issues](https://img.shields.io/github/issues/SamarpanCoder2002/Generation?color=green&logo=github&style=flat)](https://github.com/SamarpanCoder2002/Generation/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/SamarpanCoder2002/Generation?style=flat&logo=github)](https://github.com/SamarpanCoder2002/Generation/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/SamarpanCoder2002/Generation?style=flat&color=critical&logo=github)](https://github.com/SamarpanCoder2002/Generation/pulls?q=is%3Apr+is%3Aclosed)   |
+
 
 
 
