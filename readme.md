@@ -1,8 +1,8 @@
 <a href="https://github.com/Kushal997-das/Hacktoberfest-2021/"><img align='center' height="30" src="https://img.shields.io/badge/Hacktoberfest-2021-orange.svg?&style=for-the-badge&logo=KD&logoColor=blue" /></a> <br><br>
 
-<p align="center"><img src="https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/files/hack211.jpg" alt="Web Developement Image" width=800px />
+<p align="center"><img src="https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/files/hack211.jpg" alt="Web Developement Image" width=850px />
 
-### This repository aims to help code beginners with their first successful pull request and open source contribution. :partying_face:
+## This repository aims to help code beginners with their first successful pull request and open source contribution. :partying_face:
  
 :star: Register for Hacktoberfest: Navigate to the [Hacktoberfest registration page](https://hacktoberfest.digitalocean.com/) and follow the instructions. But, read the rules carefully before you do and then sign In using your GitHub credentials.
 
@@ -17,7 +17,6 @@
 A month-long celebration from October 1st to October 31st presented by [Digital Ocean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/) collaborated with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest) to get people involved in [Open Source](https://github.com/open-source). Create your very first pull request to any public repository on GitHub and contribute to the open-source developer community.
 
 [https://hacktoberfest.digitalocean.com/](https://hacktoberfest.digitalocean.com/)
-
 
 ### Rules :fire:
 To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2021 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 70,000__ participants who complete the challenge will earn a T-shirt.
@@ -42,8 +41,10 @@ Add any programming question and its solution in a separate folder and make your
 <name of program>/
 ├── question.md
 ├── <solution> (Solution file in any language including C/Java/Python etc.)
+
 ```
 
+ - After submitting your programming questions  don't forget to add your name and github user name [here](https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/1.%20Beginner%20level/TASK%20%231/data.json) <br>
 :eyes: Upload your contribution here in this folder [Task 1](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level/TASK%20%231)
 
 ## Task 2: [Submit your Own portfolio page/ GitHub profiles](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level/TASK%20%232) :eyes:
@@ -75,7 +76,14 @@ Add any programming question and its solution in a separate folder and make your
 |-------------|-------------------|---|---|
 | [**Project-Guidance**](https://github.com/Kushal997-das/Project-Guidance) | [![GitHub issues](https://img.shields.io/github/issues/Kushal997-das/Project-Guidance?color=green&logo=github&style=flat)](https://github.com/Kushal997-das/Project-Guidance/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Kushal997-das/Project-Guidance?style=flat&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Kushal997-das/Project-Guidance?style=flat&color=critical&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls?q=is%3Apr+is%3Aclosed)   |
 
-  <br><br>
+  <br>
+
+[Generation](https://github.com/SamarpanCoder2002/Generation.git)
+
+ |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs 😎  |
+|-------------|-------------------|---|---|
+| [**Generation**](https://github.com/SamarpanCoder2002/Generation) | [![GitHub issues](https://img.shields.io/github/issues/SamarpanCoder2002/Generation?color=green&logo=github&style=flat)](https://github.com/SamarpanCoder2002/Generation/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/SamarpanCoder2002/Generation?style=flat&logo=github)](https://github.com/SamarpanCoder2002/Generation/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/SamarpanCoder2002/Generation?style=flat&color=critical&logo=github)](https://github.com/SamarpanCoder2002/Generation/pulls?q=is%3Apr+is%3Aclosed)   |
+
 
 
 
@@ -89,32 +97,32 @@ Add any programming question and its solution in a separate folder and make your
 
 
 
-**0.** Star [this](https://github.com/Kushal997-das/Hacktoberfest_2021) repository.
+*1* STAR[this](https://github.com/Kushal997-das/Hacktoberfest_2021) repository.
 
-**1.** Fork [this](https://github.com/Kushal997-das/Hacktoberfest_2021) repository.
+**2** Fork [this](https://github.com/Kushal997-das/Hacktoberfest_2021) repository.
 
-**2.** Clone the forked repository.
+**3** Clone the forked repository.
 
 ```bash
 git clone https://github.com/<your-github-username>/Hacktoberfest_2021
 ```
 
-**3.** Navigate to the project directory.
+**4** Navigate to the project directory.
 
 ```bash
 cd Hacktoberfest_2021
 
 ```
 
-**4.** Create a new branch.
+**5** Create a new branch.
 
 ```bash
 git checkout -b <your_branch_name>
 ```
 
-**5.** Make changes.
+**6** Make changes.
 
-**6.** Stage your changes and commit
+**7** Stage your changes and commit
 
 ```bash
 git add -A
@@ -122,7 +130,7 @@ git add -A
 git commit -m "<your_commit_message>"
 ```
 
-**7.** Push your local commits to the remote repo.
+**8** Push your local commits to the remote repo.
 
 ```bash
 git push -u origin <your_branch_name>
