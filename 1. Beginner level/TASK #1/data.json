@@ -6,6 +6,8 @@
     "githubUsername": "Replace with your github user name",
   },
  // Add your details below as above mention
-  
-  
+  {
+    "name": "Sharan Swaroop", 
+    "githubUsername": "S-Swaroop",
+  }
  ]
