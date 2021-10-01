@@ -26,12 +26,12 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
   
  - Choose from these tasks below 👍
       - [Beginner level 📁](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level)
-      - [Intermediate level 📁](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/2.%20Intermediate%20level)
+      - [Intermediate level 📁](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/2.%20Intermediate%20level) <br><br>
       
  
-Here are 3 quick and easy ways to contribute to this project:
+<img height="30" src="https://img.shields.io/badge/Beginner level-green.svg?&style=for-the-badge&logo=Beginner level&logoColor=blue" />
 
-## Task 1: [Add your program question and solution](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%201) :innocent:
+## Task 1: [Add your program question and solution](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level/TASK%20%232) :innocent:
 Add any programming question and its solution in a separate folder and make your way to Open Source.
 
 :star: The file structure will be as follows:
@@ -42,25 +42,21 @@ Add any programming question and its solution in a separate folder and make your
 ├── <solution> (Solution file in any language including C/Java/Python etc.)
 ```
 
-:eyes: Upload your contribution here in this folder [Task 1](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%201)
+:eyes: Upload your contribution here in this folder [Task 1](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level/TASK%20%231)
 
-## Task 2: [Submit your Own portfolio page](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%202) :eyes:
-Host your very own portfolio page in minutes and share with us to get nearer to swags
+## Task 2: [Submit your Own portfolio page/ GitHub profiles](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level/TASK%20%232) :eyes:
+ 
+- How to add portfolio 🤔
+ - [follow this](https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/1.%20Beginner%20level/TASK%20%232/README.md)
 
-You can take help from one of my blogs :point_right: [Visit Blog](https://medium.com/analytics-vidhya/portfolio-website-the-beginners-way-d43be855217e)
-
-:star: The file structure will be as follows:
-
-```
-<your name>/
-├── <all files/folders> (In any language including C/Java/Python etc.)
-```
+- After submitting the profiles don't forget to add your profile details in [data.json](https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/1.%20Beginner%20level/TASK%20%232/data.json)
+ 
 
 :eyes: Upload your contribution here in this folder [Task 2](https://github.com/chandrikadeb7/Hacktoberfest_2020/tree/main/Task%202)
 
 
 
-## Choose one or all 2, make a pull request for your work and wait for it to be merged! :heart:
+
 
 
 ## Steps to follow :scroll:
