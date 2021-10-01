@@ -23,10 +23,11 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
 
  
  # Hacktoberfest_2021 🌈
-  - [Choose from these tasks below 👍](data_structures/sortings)
-    
-      - [1. Beginner level 📁]()
-      - [2. Intermediate level 📁]()
+  
+ - Choose from these tasks below 👍
+      - [Beginner level 📁](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level)
+      - [Intermediate level 📁](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/2.%20Intermediate%20level)
+      
  
 Here are 3 quick and easy ways to contribute to this project:
 
