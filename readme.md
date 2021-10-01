@@ -97,32 +97,32 @@ Add any programming question and its solution in a separate folder and make your
 
 
 
-**0.** Star [this](https://github.com/Kushal997-das/Hacktoberfest_2021) repository.
+*1* STAR[this](https://github.com/Kushal997-das/Hacktoberfest_2021) repository.
 
-**1.** Fork [this](https://github.com/Kushal997-das/Hacktoberfest_2021) repository.
+**2** Fork [this](https://github.com/Kushal997-das/Hacktoberfest_2021) repository.
 
-**2.** Clone the forked repository.
+**3** Clone the forked repository.
 
 ```bash
 git clone https://github.com/<your-github-username>/Hacktoberfest_2021
 ```
 
-**3.** Navigate to the project directory.
+**4** Navigate to the project directory.
 
 ```bash
 cd Hacktoberfest_2021
 
 ```
 
-**4.** Create a new branch.
+**5** Create a new branch.
 
 ```bash
 git checkout -b <your_branch_name>
 ```
 
-**5.** Make changes.
+**6** Make changes.
 
-**6.** Stage your changes and commit
+**7** Stage your changes and commit
 
 ```bash
 git add -A
@@ -130,7 +130,7 @@ git add -A
 git commit -m "<your_commit_message>"
 ```
 
-**7.** Push your local commits to the remote repo.
+**8** Push your local commits to the remote repo.
 
 ```bash
 git push -u origin <your_branch_name>
