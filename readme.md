@@ -1,6 +1,6 @@
 <a href="https://github.com/Kushal997-das/Hacktoberfest-2021/"><img align='center' height="30" src="https://img.shields.io/badge/Hacktoberfest-2021-orange.svg?&style=for-the-badge&logo=KD&logoColor=blue" /></a> <br><br>
 
-<p align="center"><img src="https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/files/hack211.jpg" alt="Web Developement Image" width=850px />
+<p align="center"><img src="https://github.com/Kushal997-das/Hacktoberfest-2021/blob/master/files/hack211.jpg" alt="Web Developement Image" width=850px />
 
 ## This repository aims to help code beginners with their first successful pull request and open source contribution. :partying_face:
  
@@ -20,19 +20,21 @@ A month-long celebration from October 1st to October 31st presented by [Digital 
 
 ### Rules :fire:
 To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2021 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 70,000__ participants who complete the challenge will earn a T-shirt.
-
-
+<br>
+ 
+ ## FIRST 
+- ## STAR ⭐ [this](https://github.com/Kushal997-das/Hacktoberfest-2021) repository.
  
  # Hacktoberfest_2021 🌈
   
  - Choose from these tasks below 👇
-      - [Beginner level 📁](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level)
+      - [Beginner level 📁](https://github.com/Kushal997-das/Hacktoberfest-2021/tree/master/1.%20Beginner%20level)
       - Intermediate level 📁 <br><br>
       
  
 <img height="30" src="https://img.shields.io/badge/Beginner level-green.svg?&style=for-the-badge&logo=Beginner level&logoColor=blue" />
 
-## Task 1: [Add your program question and solution](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level/TASK%20%231) :innocent:
+## Task 1: [Add your program question and solution](https://github.com/Kushal997-das/Hacktoberfest-2021/tree/master/1.%20Beginner%20level/TASK%20%231) :innocent:
 Add any programming question and its solution in a separate folder and make your way to Open Source.
 
 :star: The file structure will be as follows:
@@ -44,14 +46,14 @@ Add any programming question and its solution in a separate folder and make your
 
 ```
 
- - After submitting your programming questions  don't forget to add your name and github user name [here](https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/1.%20Beginner%20level/TASK%20%231/data.json) <br>
+ - After submitting your programming questions  don't forget to add your name and github user name [here](https://github.com/Kushal997-das/Hacktoberfest-2021/blob/master/1.%20Beginner%20level/TASK%20%231/data.json) <br>
 :eyes: Upload your contribution here in this folder [Task 1](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level/TASK%20%231)
 
-## Task 2: [Submit your Own portfolio page/ GitHub profiles](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level/TASK%20%232) :eyes:
+## Task 2: [Submit your Own portfolio page/ GitHub profiles](https://github.com/Kushal997-das/Hacktoberfest-2021/tree/master/1.%20Beginner%20level/TASK%20%232) :eyes:
  
 ### How to add portfolio ❓ 🤔
  - [follow this](https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/1.%20Beginner%20level/TASK%20%232/README.md)
-   - Make sure you don't chnage anything in [this](https://github.com/Kushal997-das/Hacktoberfest_2021/edit/master/1.%20Beginner%20level/TASK%20%232/README.md) Just copy this code and add required details -
+   - Make sure you don't chnage anything in [this](https://github.com/Kushal997-das/Hacktoberfest-2021/edit/master/1.%20Beginner%20level/TASK%20%232/README.md) Just copy this code and add required details -
  
  ```
  <table width="100%"><tr><td align="center"><p><a href="portfolio link">Your name</a></p><img src=" Image URL " /></td>
@@ -61,7 +63,7 @@ Add any programming question and its solution in a separate folder and make your
 - After submitting the profiles don't forget to add your profile details in [data.json](https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/1.%20Beginner%20level/TASK%20%232/data.json)
  
 
-:eyes: Upload your contribution here in this folder [Task 2](https://github.com/Kushal997-das/Hacktoberfest_2021/tree/master/1.%20Beginner%20level/TASK%20%232)
+:eyes: Upload your contribution here in this folder [Task 2](https://github.com/Kushal997-das/Hacktoberfest-2021/tree/master/1.%20Beginner%20level/TASK%20%232)
 
 <br><br>
   
@@ -91,26 +93,26 @@ Add any programming question and its solution in a separate folder and make your
 
 ## Contributing :handshake:
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git&logoColor=white)](https://github.com/Kushal997-das/Hacktoberfest_2021/pulls)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?color=red)](https://github.com/Kushal997-das/Hacktoberfest_2021)[![license](https://img.shields.io/github/license/Kushal997-das/Hacktoberfest_2021.svg?color=red)](https://github.com/Kushal997-das/Hacktoberfest_2021/blob/main/LICENSE)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git&logoColor=white)](https://github.com/Kushal997-das/Hacktoberfest-2021/pulls)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?color=red)](https://github.com/Kushal997-das/Hacktoberfest-2021)[![license](https://img.shields.io/github/license/Kushal997-das/Hacktoberfest-2021.svg?color=red)](https://github.com/Kushal997-das/Hacktoberfest-2021/blob/main/LICENSE)
 
-> Please read our [Code of Conduct :octocat:](https://github.com/Kushal997-das/Project-Guidance/blob/main/CODE_OF_CONDUCT.md).
+> Please read our [Code of Conduct :octocat:](https://github.com/Kushal997-das/Hacktoberfest-2021/blob/master/CODE_OF_CONDUCT.md).
 
 
 
-*1* STAR[this](https://github.com/Kushal997-das/Hacktoberfest_2021) repository.
+*1* STAR[this](https://github.com/Kushal997-das/Hacktoberfest-2021) repository.
 
-**2** Fork [this](https://github.com/Kushal997-das/Hacktoberfest_2021) repository.
+**2** Fork [this](https://github.com/Kushal997-das/Hacktoberfest-2021) repository.
 
 **3** Clone the forked repository.
 
 ```bash
-git clone https://github.com/<your-github-username>/Hacktoberfest_2021
+git clone https://github.com/<your-github-username>/Hacktoberfest-2021
 ```
 
 **4** Navigate to the project directory.
 
 ```bash
-cd Hacktoberfest_2021
+cd Hacktoberfest-2021
 
 ```
 
@@ -137,7 +139,7 @@ git push -u origin <your_branch_name>
 ```
 
 
-**9.** **Congratulations!** :tada: Sit and relax, you've made your contribution to [Hacktoberfest_2021](https://github.com/Kushal997-das/Hacktoberfest_2021). :v: :heart: 💥
+**9.** **Congratulations!** :tada: Sit and relax, you've made your contribution to [Hacktoberfest_2021](https://github.com/Kushal997-das/Hacktoberfest-2021). :v: :heart: 💥
 
 <br><br>
   
@@ -156,9 +158,11 @@ It always takes time to understand and learn. So, do not worry at all. We know y
 
 
 ## Awesome contributors :star_struck:
-<a href="https://github.com/Kushal997-das/Hacktoberfest_2021/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Kushal997-das/Hacktoberfest_2021" />
+<a href="https://github.com/Kushal997-das/Hacktoberfest-2021/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Kushal997-das/Hacktoberfest-2021" />
 </a> <br><br>
+
+<!-- Made with [contributors-img](https://contrib.rocks).<br><br> -->
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
  
