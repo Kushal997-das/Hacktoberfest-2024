@@ -93,7 +93,7 @@ Add any programming question and its solution in a separate folder and make your
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=git&logoColor=white)](https://github.com/Kushal997-das/Hacktoberfest-2021/pulls)[![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?color=red)](https://github.com/Kushal997-das/Hacktoberfest-2021)[![license](https://img.shields.io/github/license/Kushal997-das/Hacktoberfest-2021.svg?color=red)](https://github.com/Kushal997-das/Hacktoberfest-2021/blob/main/LICENSE)
 
-> Please read our [Code of Conduct :octocat:](https://github.com/Kushal997-das/Project-Guidance/blob/main/CODE_OF_CONDUCT.md).
+> Please read our [Code of Conduct :octocat:](https://github.com/Kushal997-das/Hacktoberfest-2021/blob/master/CODE_OF_CONDUCT.md).
 
 
 
@@ -158,7 +158,7 @@ It always takes time to understand and learn. So, do not worry at all. We know y
 ## Awesome contributors :star_struck:
 <a href="https://github.com/Kushal997-das/Hacktoberfest-2021/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Kushal997-das/Hacktoberfest-2021" />
-</a>
+</a> <br><br>
 
 <!-- Made with [contributors-img](https://contrib.rocks).<br><br> -->
 
