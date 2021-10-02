@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+        <title>Change Color and Shift Image</title>
+        <link rel="stylesheet" href="w3.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta charset="utf-8" />
+        <style>
+            button{
+                margin-left: 10px;
+                margin-top: 30px;
+            }
+        </style>
+    </head>
+
+    <body onload='loadImage()'>
+        
+        <hr>
+        <div>
+            <img id='movingImage' src='minions.jpg' width="150" height="150" style='margin-left: 10px;' /><br />
+            <button  onclick='startMoving()' >Move</button>
+            <button  onclick='stopMoving()' >Stop</button>     
+        </div>
+        <script>
+            var margin = 0;
+            var factor = -1;
+            var interval;
+            var timeour;
+            var x = 1;
+            var w, h;
+           
+            function loadImage() {
+               var image = document.getElementById("movingImage");
+      
+                image.addEventListener("mouseover", function zoom_in() {
+                w = image.clientWidth;
+                h = image.clientHeight;
+                image.style.width = w + 50 + "px";
+                image.style.height = h + 50 + "px";
+                });
+
+                image.addEventListener("mouseout", function zoom_out() {
+                w = image.clientWidth;
+                h = image.clientHeight;
+                image.style.width =  w - 50 + "px";
+                image.style.height = h - 50 + "px";
+                });
+
+            }
+            function startMoving() {
+                var image = document.getElementById('movingImage');
+                clearInterval(interval);
+                interval = setInterval(function(){
+                    if (margin <= 0 || margin >= screen.width - image.width) {
+                        factor *= -1;
+                    } 
+                    margin += 1 * factor;
+                    image.style.marginLeft = margin + "px";
+                }, 1);
+            }
+
+            function stopMoving() {
+                clearInterval(interval);
+            }
+        </script>
+    </body>
+</html>
+
+
+
+
+
+
+
+
