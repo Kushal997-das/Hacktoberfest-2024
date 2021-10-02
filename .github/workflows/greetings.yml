@@ -1,0 +1,25 @@
+on:
+  fork:
+  push:
+  issues:
+    types: [ opened ]
+  issue_comment:
+    types: [ created ]
+  pull_request_target:
+    types: [ opened ]
+  pull_request_review_comment:
+    types: [ created ]
+
+jobs:
+
+  welcome:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+      # This GitHub action uses the action from EddieHubCommunity/gh-action-community, Thanks for Eddie
+      - uses: EddieHubCommunity/gh-action-community/src/welcome@v0.3 
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          issue-message: '<h1>It''s great having you contribute to this project</h1>, Welcome to <strong>Hacktoberfest-2021</strong>'
+          pr-message: '<h1>It''s great having you contribute to this project</h1> Thank you for opening a <strong>Pull Request</strong>, Welcome to <strong>Hacktoberfest-2021</strong>'
+          footer: 'We will review everything and get back to you, Thanks :smiley:'
