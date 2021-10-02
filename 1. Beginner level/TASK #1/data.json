@@ -45,8 +45,18 @@
   },
   
   {
+    "name": "Krithick",
+    "githubUserName": "Krith-10"
+  },
+
+  {
     "name": "Ruben Falcao",
     "githubUsername": "RubenFalcao14",
+  },
+  
+  {
+    "name": "Harivams Sai Gudalwar",
+    "githubUsername": "harivams-sai",
   },
 
 {
@@ -54,9 +64,9 @@
   "githubusername": "Programmer1473",
 },
 
-  {
-    "name": "Saurabh Kumar",
-    "githubusername": "seikhchilli",
-  },
+{
+  "name": "Saurabh Kumar",
+  "githubusername": "seikhchilli",
+},
 ]
 
