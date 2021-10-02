@@ -5,6 +5,7 @@
     "name": "Vipul Vaishnav",
     "githubUsername": "vipul-vaishnav",
   },
+  
  // Add your details below as above mention
 
   {
@@ -16,6 +17,11 @@
   "name": "Love Tyagi",
   "githubUsername": "lovetyagi-17",
 },
+
+{
+  "name": "Aayush Sharma",
+  "githubUsername": "aayush920",
+}, 
 
 {
   "name": "Swapna Devi",
@@ -53,6 +59,11 @@
     "name": "Ruben Falcao",
     "githubUsername": "RubenFalcao14",
   },
+
+  {
+    "name": "Adam Oommen Jacob",
+    "githubUsername": "weberstills",
+  },
   
   {
     "name": "Harivams Sai Gudalwar",
@@ -66,7 +77,12 @@
 
 {
   "name": "Saurabh Kumar",
-  "githubusername": "seikhchilli",
+  "githubUsername": "seikhchilli",
 },
+
+    "name": "Parth Kulkarni",
+    "githubUsername": "parthkgh24",
+ },
+
 ]
 

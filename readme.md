@@ -87,6 +87,15 @@ Add any programming question and its solution in a separate folder and make your
 | [**Generation**](https://github.com/SamarpanCoder2002/Generation) | [![GitHub issues](https://img.shields.io/github/issues/SamarpanCoder2002/Generation?color=green&logo=github&style=flat)](https://github.com/SamarpanCoder2002/Generation/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/SamarpanCoder2002/Generation?style=flat&logo=github)](https://github.com/SamarpanCoder2002/Generation/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/SamarpanCoder2002/Generation?style=flat&color=critical&logo=github)](https://github.com/SamarpanCoder2002/Generation/pulls?q=is%3Apr+is%3Aclosed)   |
 
 
+ <br>
+
+[AI Integrated Ludo Game](https://github.com/SamarpanCoder2002/AI-Integrated-Ludo-Game.git)
+
+ |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs 😎  |
+|-------------|-------------------|---|---|
+| [**AI Integrated Ludo Game**](https://github.com/SamarpanCoder2002/AI-Integrated-Ludo-Game) | [![GitHub issues](https://img.shields.io/github/issues/SamarpanCoder2002/AI-Integrated-Ludo-Game?color=green&logo=github&style=flat)](https://github.com/SamarpanCoder2002/AI-Integrated-Ludo-Game/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/SamarpanCoder2002/AI-Integrated-Ludo-Game?style=flat&logo=github)](https://github.com/SamarpanCoder2002/AI-Integrated-Ludo-Game/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/SamarpanCoder2002/AI-Integrated-Ludo-Game?style=flat&color=critical&logo=github)](https://github.com/SamarpanCoder2002/AI-Integrated-Ludo-Game/pulls?q=is%3Apr+is%3Aclosed)   |
+
+
 
 
 ## Steps to follow :scroll:
