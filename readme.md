@@ -98,6 +98,18 @@ Add any programming question and its solution in a separate folder and make your
 
 
 
+
+ <br>
+
+[Mr. Pomodoro](https://github.com/SamarpanCoder2002/Mr-Pomodoro.git)
+
+ |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs 😎  |
+|-------------|-------------------|---|---|
+| [**Mr. Pomodoro**](https://github.com/SamarpanCoder2002/Mr-Pomodoro) | [![GitHub issues](https://img.shields.io/github/issues/SamarpanCoder2002/Mr-Pomodoro?color=green&logo=github&style=flat)](https://github.com/SamarpanCoder2002/Mr-Pomodoro/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/SamarpanCoder2002/Mr-Pomodoro?style=flat&logo=github)](https://github.com/SamarpanCoder2002/Mr-Pomodoro/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/SamarpanCoder2002/Mr-Pomodoro?style=flat&color=critical&logo=github)](https://github.com/SamarpanCoder2002/Mr-Pomodoro/pulls?q=is%3Apr+is%3Aclosed)   |
+
+
+
+
 ## Steps to follow :scroll:
 
 ## Contributing :handshake:
