@@ -158,7 +158,7 @@ It always takes time to understand and learn. So, do not worry at all. We know y
 ## Awesome contributors :star_struck:
 <a href="https://github.com/Kushal997-das/Hacktoberfest_2021/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Kushal997-das/Hacktoberfest_2021" />
-</a> <br><br>
+</a><br><br>
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
  
