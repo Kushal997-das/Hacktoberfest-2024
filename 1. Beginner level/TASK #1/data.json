@@ -29,10 +29,15 @@
     "githubUsername": "surbhi2408",
    
   },
+
+  {
+    "name": "Anamika Sharma",
+    "githubUsername": "Anamika2408",
+  },
+
 { 
   "name": "Ojaswini Shrivastav"
   "githubUsername": "ojaswinis",
-  
 },
   
   {
@@ -41,12 +46,30 @@
   },
   
   {
+    "name": "Krithick",
+    "githubUserName": "Krith-10"
+  },
+
+  {
     "name": "Ruben Falcao",
     "githubUsername": "RubenFalcao14",
   },
+
   {
     "name": "Adam Oommen Jacob",
     "githubUsername": "weberstills",
   },
+  
+  {
+    "name": "Harivams Sai Gudalwar",
+    "githubUsername": "harivams-sai",
+  },
+
+{
+  "name": "programmer",
+  "githubusername": "Programmer1473",
+},
+
+
 ]
 
