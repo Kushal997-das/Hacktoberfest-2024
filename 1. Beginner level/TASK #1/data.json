@@ -5,6 +5,7 @@
     "name": "Vipul Vaishnav",
     "githubUsername": "vipul-vaishnav",
   },
+  
  // Add your details below as above mention
 
   {
@@ -55,6 +56,11 @@
   },
 
   {
+    "name": "Adam Oommen Jacob",
+    "githubUsername": "weberstills",
+  },
+  
+  {
     "name": "Harivams Sai Gudalwar",
     "githubUsername": "harivams-sai",
   },
@@ -67,7 +73,7 @@
 {
     "name": "Parth Kulkarni",
     "githubUsername": "parthkgh24",
-  },
+ },
 
 ]
 
