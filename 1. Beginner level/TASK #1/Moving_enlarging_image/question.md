@@ -1,0 +1,1 @@
+ Create a javascript program to start moving an image by clicking on start button and stop it's movement by clicking stop button.
