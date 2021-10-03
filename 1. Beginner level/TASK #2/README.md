@@ -19,8 +19,7 @@
   
 <td align="center"><p><a href="https://github.com/ColonelAVP">Atherv Patil</a></p><img src="https://github.com/ColonelAVP/Hacktoberfest-2021/blob/avp-patch/1.%20Beginner%20level/TASK%20%232/Profiles/ColonelAVP.png"/><p><a href="https://github.com/amitsat27/Hacktoberfest-2021">(Hacktoberfest-2021 ⭐)</a></p></td>
 
-<td align="center"><p><a href="https://github.com/amitsat27">Amit Zope</a></p><img src="https://github.com/amitsat27/Hacktoberfest-2021/blob/master/1.%20Beginner%20level/TASK%20%232/Profiles/AmitZope.png">
-<p><a href="https://github.com/amitsat27/Hacktoberfest-2021">(Hacktoberfest-2021 ⭐)</a></p></td> 
+
   
 <td align="center"><p><a href="https://github.com/afzall-khan">Afzal khan</a></p><img src="https://github.com/afzall-khan/Hacktoberfest-2022/blob/master/1.%20Beginner%20level/TASK%20%232/Profiles/afzalkhan.jpg"><p><a href="https://github.com/Kushal997-das/Hacktoberfest-2021">(Hacktoberfest-2021 ⭐)</a></p></td>
   
