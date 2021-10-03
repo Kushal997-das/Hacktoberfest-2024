@@ -80,6 +80,11 @@
     "githubUsername": "parthkgh24"
   },
 
+ {
+  "name": "Afzal Khan",
+  "githubUsername": "afzall-khan",
+},
+
   {
     "name": "Thejasree Kilari",
     "githubUsername": "ThejasreeKilari"
@@ -96,5 +101,6 @@
       "name": "Amit Zope",
       "githubUsername": "amitsat27" 
   },
+
 ]
 
