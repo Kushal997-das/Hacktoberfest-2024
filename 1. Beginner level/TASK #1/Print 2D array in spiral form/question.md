@@ -1,1 +1,1 @@
-Print 2D array in spiral matrix.
+Print 2D array in spiral form.
