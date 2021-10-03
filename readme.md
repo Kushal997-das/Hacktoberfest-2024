@@ -22,8 +22,13 @@ A month-long celebration from October 1st to October 31st presented by [Digital 
 To qualify for the __official limited edition Hacktoberfest shirt__, you must register [here](https://hacktoberfest.digitalocean.com/) and make four Pull Requests (PRs) between October 1-31, 2021 (in any time zone). PRs can be made to any public repo on GitHub, not only the ones with issues labeled Hacktoberfest. This year, the __first 70,000__ participants who complete the challenge will earn a T-shirt.
 <br>
  
- ## FIRST 
-- ## STAR ⭐ [this](https://github.com/Kushal997-das/Hacktoberfest-2021) repository.
+ <p align="center"><h3>🛑🛑 ELIGIBILITY CRITERIA 🛑🛑</h3></p>
+ 
+*	```⚠️⚠️ Same Programming questions will not be accepted ⚠️⚠️```
+*	`Star & Fork the Repository 👇 repository.`
+* [this](https://github.com/Kushal997-das/Hacktoberfest-2021) <br>
+*	```Must fill data.json file after completing your task```</br>
+
  
  # Hacktoberfest_2021 🌈
   
@@ -98,6 +103,18 @@ Add any programming question and its solution in a separate folder and make your
 
 
 
+
+ <br>
+
+[Mr. Pomodoro](https://github.com/SamarpanCoder2002/Mr-Pomodoro.git)
+
+ |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs 😎  |
+|-------------|-------------------|---|---|
+| [**Mr. Pomodoro**](https://github.com/SamarpanCoder2002/Mr-Pomodoro) | [![GitHub issues](https://img.shields.io/github/issues/SamarpanCoder2002/Mr-Pomodoro?color=green&logo=github&style=flat)](https://github.com/SamarpanCoder2002/Mr-Pomodoro/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/SamarpanCoder2002/Mr-Pomodoro?style=flat&logo=github)](https://github.com/SamarpanCoder2002/Mr-Pomodoro/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/SamarpanCoder2002/Mr-Pomodoro?style=flat&color=critical&logo=github)](https://github.com/SamarpanCoder2002/Mr-Pomodoro/pulls?q=is%3Apr+is%3Aclosed)   |
+
+
+
+
 ## Steps to follow :scroll:
 
 ## Contributing :handshake:
@@ -152,7 +169,9 @@ git push -u origin <your_branch_name>
 
 <br><br>
   
-  
+## If you have any doubt feel free to raise a question [here](https://github.com/Kushal997-das/Hacktoberfest-2021/discussions/categories/q-a)
+
+
 ## Need more help?🤔  
 You can refer to the following articles on basics of Git and Github and also contact the Project [Mentor](https://github.com/Kushal997-das/), in case you are stuck:  
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)  
