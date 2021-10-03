@@ -169,7 +169,9 @@ git push -u origin <your_branch_name>
 
 <br><br>
   
-  
+## If you have doubt feel free to ask me over [here](https://github.com/Kushal997-das/Hacktoberfest-2021/discussions/categories/q-a)
+
+
 ## Need more help?🤔  
 You can refer to the following articles on basics of Git and Github and also contact the Project [Mentor](https://github.com/Kushal997-das/), in case you are stuck:  
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)  
