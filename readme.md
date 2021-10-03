@@ -169,7 +169,7 @@ git push -u origin <your_branch_name>
 
 <br><br>
   
-## If you have doubt feel free to ask me over [here](https://github.com/Kushal997-das/Hacktoberfest-2021/discussions/categories/q-a)
+## If you have any doubt feel free to raise a question [here](https://github.com/Kushal997-das/Hacktoberfest-2021/discussions/categories/q-a)
 
 
 ## Need more help?🤔  
