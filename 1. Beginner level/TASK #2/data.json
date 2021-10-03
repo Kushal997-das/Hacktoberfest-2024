@@ -4,23 +4,61 @@
   {
     "name": "Kushal Das",
     "githubUsername": "Kushal997-das",
-    "imageUrl": "https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/1.%20Beginner%20level/TASK%20%232/Profiles/Kushal997-das.jpg",
+    "imageUrl": "https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/1.%20Beginner%20level/TASK%20%232/Profiles/Kushal997-das.jpg"
   },
 
-   {
+  {
     "name": "Sharan Swaroop",
     "githubUsername": "S-Swaroop",
      "imageUrl": "https://github.com/S-Swaroop/Hacktoberfest_2021/blob/master/1.%20Beginner%20level/TASK%20%232/Profiles/S-Swaroop.PNG",
    },
+   
 
+  {
+    "name": "Anurag Pathak",
+    "githubUsername": "AnuragThePathak",
+    "imageUrl": "https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/1.%20Beginner%20level/TASK%20%232/Profiles/AnuragThePathak.jpg"
+  },
+  {
+    "name": "Surbhi Mayank",
+    "githubUsername": "surbhi2408",
+    "imageUrl": "https://github.com/surbhi2408/Hacktoberfest_2021/blob/Surbhi/1.%20Beginner%20level/TASK%20%232/Profiles/surbhi2408.jpg"
+  },
+  {
+    "name": "Thejasree Kilari",
+    "githubUsername": "ThejasreeKilari"
+  },
 	{
 		"name": "Anurag Pathak",
 		"githubUsername": "AnuragThePathak",
-		"imageUrl": "https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/1.%20Beginner%20level/TASK%20%232/Profiles/AnuragThePathak.jpg"
+		"imageUrl": "https://github.com/Kushal997-das/Hacktoberfest_2021/blob/master/1.%20Beginner%20level/TASK%20%232/Profiles/AnuragThePathak.jpg",
 	},
-  	{
+  {
+		"name": "Afzal khan",
+		"githubUsername": "Afzall-khan",
+		"imageUrl": "https://github.com/afzall-khan/Hacktoberfest-2022/blob/master/1.%20Beginner%20level/TASK%20%232/Profiles/afzalkhan.jpg",
+	},
+		
+  {
 	    "name": "Surbhi Mayank",
 	    "githubUsername": "surbhi2408",
 	    "imageUrl": "https://github.com/surbhi2408/Hacktoberfest_2021/blob/Surbhi/1.%20Beginner%20level/TASK%20%232/Profiles/surbhi2408.jpg",
 	},
+	{
+	    "name": "Reidho Satria",
+	    "githubUsername": "Eilaluth",
+	    "imageUrl": "https://github.com/Eilaluth/Hacktoberfest-2021/blob/master/1.%20Beginner%20level/TASK%20%232/Profiles/Eilaluth.png",
+	},
+  {
+            "name": "Debargha Mukherjee",
+            "githubUsername": "Debargha-arch",
+            "imageUrl": "https://github.com/Kushal997-das/Hacktoberfest-2021/blob/92b3e23ee96475061cac4d86dd1c91ac3f3489bf/1.%20Beginner%20level/TASK%20%232/Profiles/DebarghaMukherjee.jpg",
+  },
+  {
+      "name": "Amit Zope",
+      "githubUsername": "amitsat27",
+      "imageUrl": "https://github.com/amitsat27/Hacktoberfest-2021/blob/master/1.%20Beginner%20level/TASK%20%232/Profiles/AmitZope.png",
+
+  },
  ]
+
