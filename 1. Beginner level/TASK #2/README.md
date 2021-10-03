@@ -14,7 +14,7 @@
   
 <td align="center"><p><a href="https://github.com/Debargha-arch">Debargha Mukherjee</a></p><img src="https://github.com/Kushal997-das/Hacktoberfest-2021/blob/92b3e23ee96475061cac4d86dd1c91ac3f3489bf/1.%20Beginner%20level/TASK%20%232/Profiles/DebarghaMukherjee.jpg"><p><a href="https://github.com/Kushal997-das/Hacktoberfest-2021">(Hacktoberfest-2021 ⭐)</a></p></td>
   
-<table width="100%"><tr><td align="center"><p><a href="https://github.com/amitsat27">Amit Zope</a></p><img src=" https://github.com/amitsat27/Hacktoberfest-2021/blob/master/1.%20Beginner%20level/TASK%20%232/Profiles/AmitZopePhoto.png" />
+<table width="100%"><tr><td align="center"><p><a href="https://github.com/amitsat27">Amit Zope</a></p><img src="https://github.com/amitsat27/Hacktoberfest-2021/blob/master/1.%20Beginner%20level/TASK%20%232/Profiles/AmitZopePhoto.png" />
 <p><a href="https://github.com/amitsat27/Hacktoberfest-2021">(Hacktoberfest-2021 ⭐)</a></p></td>
 
 
