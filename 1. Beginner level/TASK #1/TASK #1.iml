@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Factorial of a number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Find the Highest Altitude" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Flip-the-image" isTestSource="false" packagePrefix="vaishnav.vipul" />
+      <sourceFolder url="file://$MODULE_DIR$/Print 2D array in spiral form" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="16" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
