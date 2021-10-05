@@ -23,8 +23,8 @@
   
 <td align="center"><p><a href="https://github.com/afzall-khan">Afzal khan</a></p><img src="https://github.com/afzall-khan/Hacktoberfest-2022/blob/master/1.%20Beginner%20level/TASK%20%232/Profiles/afzalkhan.jpg"><p><a href="https://github.com/Kushal997-das/Hacktoberfest-2021">(Hacktoberfest-2021 ⭐)</a></p></td>
   
+<td align="center"><p><a href="https://gktc.github.io/markdown-portfolio/">Gopikrishnan TC</a></p><img src="https://user-images.githubusercontent.com/85929063/136075545-a0c4aca3-201b-4092-8621-644ae8cebc70.png"/><p><a href="https://github.com/Kushal997-das/Hacktoberfest-2021">(Hacktoberfest-2021 ⭐)</a></p></td>
 
-</tr>
-</table>
+
 
 
