@@ -1,0 +1,1 @@
+Read a string (word), store it in an array and obtain its reverse by using a user defined function

@@ -44,7 +44,7 @@
 	    "githubUsername": "surbhi2408",
 	    "imageUrl": "https://github.com/surbhi2408/Hacktoberfest_2021/blob/Surbhi/1.%20Beginner%20level/TASK%20%232/Profiles/surbhi2408.jpg",
 	},
-
+  {
 	    "name": "Reidho Satria",
 	    "githubUsername": "Eilaluth",
 	    "imageUrl": "https://github.com/Eilaluth/Hacktoberfest-2021/blob/master/1.%20Beginner%20level/TASK%20%232/Profiles/Eilaluth.png",
@@ -70,6 +70,11 @@
       "githubUsername": "1998ramanpreet",
       "imageUrl": "https://github.com/1998ramanpreet/Hacktoberfest-2022/blob/master/1.%20Beginner%20level/TASK%20%232/Profiles/1998ramanpreet.PNG",
 
+  },
+  {
+    "name": "Ranjith B",
+    "githubUsername": "Ranjith-B-5",
+    "imageUrl": "https://avatars.githubusercontent.com/u/84143337?v=4",
   },
  ]
 
