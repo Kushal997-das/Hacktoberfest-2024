@@ -13,7 +13,7 @@ int main() {
 	            cout<<j<<" ";
 	        }
 	        i1++;
-	        cout<<endl;
+	        cout<<endl<<endl;
 	    }
 	    else{
 	        for(int k=(i+1)*5; k>=(5*i)+1; k--){

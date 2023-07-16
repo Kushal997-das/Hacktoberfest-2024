@@ -1,6 +1,8 @@
+#include<bits/stdc++.h>
+using namespace std;
 class Solution {
 public:
-    int lengthOfLIS(vector<int>& nums) {
+    int lengthOfLongestIncreasingSubsequence(vector<int>& nums) {
         vector<int>res;
         for(int i=0;i<nums.size();i++){
             auto it=lower_bound(res.begin(),res.end(),nums[i]);
