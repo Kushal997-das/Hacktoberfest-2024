@@ -1,6 +1,6 @@
-<a href="https://github.com/Kushal997-das/Hacktoberfest-2021/"><img align='center' height="30" src="https://img.shields.io/badge/Hacktoberfest-2021-orange.svg?&style=for-the-badge&logo=KD&logoColor=blue" /></a> <br><br>
+<a href="https://github.com/Kushal997-das/Hacktoberfest-2021/"><img align='center' height="30" src="https://img.shields.io/badge/Hacktoberfest-2023-orange.svg?&style=for-the-badge&logo=KD&logoColor=blue" /></a> <br><be>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/61356005/209368532-ab56678f-175a-4917-81bd-d4bfb9774fc9.jpg" alt="Web Developement Image" width=855px />
+<!-- <p align="center"><img src="https://user-images.githubusercontent.com/61356005/209368532-ab56678f-175a-4917-81bd-d4bfb9774fc9.jpg" alt="Web Developement Image" width=855px /> -->
 
 ## This repository aims to help code beginners with their first successful pull request and open source contribution. :partying_face:
  
