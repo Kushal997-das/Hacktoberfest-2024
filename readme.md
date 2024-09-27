@@ -51,7 +51,7 @@ Hacktoberfest is a month-long celebration from October 1 to October 31, organize
 2. **[Intermediate Level 📁](https://github.com/Kushal997-das/Hacktoberfest-2024/blob/master/readme.md#task-1-add-your-program-question-and-solution-)**
    - **Task 2**: [Submit Your Own Portfolio Page / GitHub Profile](https://github.com/Kushal997-das/Hacktoberfest-2024/tree/master/1.%20Beginner%20level/TASK%20%232) 📄
      - **How to Add Your Portfolio**:
-       - Follow the instructions [here](https://github.com/Kushal997-das/Hacktoberfest-2024/blob/master/1.%20Beginner%20level/TASK%20%232/README.md).
+       - Create a new folder with your GitHub `username`.
        - Ensure you don't modify anything in [this template](https://github.com/Kushal997-das/Hacktoberfest-2024/edit/master/1.%20Beginner%20level/TASK%20%232/README.md). Simply copy the code and fill in your details:
          ```html
          <table width="100%">
