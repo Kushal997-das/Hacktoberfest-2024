@@ -32,9 +32,9 @@ Hacktoberfest is a month-long celebration from October 1 to October 31, organize
   - [Hacktoberfest-2024 Repository](https://github.com/Kushal997-das/Hacktoberfest-2024)
 - **You must fill the `data.json` file after completing your task.**
 
-<br>
 
 
+---
 ### Hacktoberfest 2024 Tasks 🌈
 
 1. **[Beginner Level 📁](https://github.com/Kushal997-das/Hacktoberfest-2024/blob/master/readme.md#task-1-add-your-program-question-and-solution-)**
