@@ -6,13 +6,15 @@
 
 This repository is designed to help beginners make their first successful pull request and contribute to open source. 🌱
 
+![hero](https://github.com/user-attachments/assets/c0d7f752-2682-454f-b815-35a0b9bba73d)
+
 ---
 
 ### What is Hacktoberfest? 🤔
 
 Hacktoberfest is a month-long celebration from October 1 to October 31, organized by [DigitalOcean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/), in collaboration with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest). It's a fantastic opportunity to engage with the open-source community by creating your first pull request to any public repository on GitHub. 🌍
 
----
+<br>
 
 ### How to Get Started 🚀
 
@@ -20,7 +22,8 @@ Hacktoberfest is a month-long celebration from October 1 to October 31, organize
    - Visit the [Hacktoberfest registration page](https://hacktoberfest.digitalocean.com/) and sign in with your GitHub credentials.
    - Be sure to read the rules carefully before registering.
 
----
+<br>
+
 
 ### Eligibility Criteria 🚫
 
@@ -29,7 +32,8 @@ Hacktoberfest is a month-long celebration from October 1 to October 31, organize
   - [Hacktoberfest-2024 Repository](https://github.com/Kushal997-das/Hacktoberfest-2024)
 - **You must fill the `data.json` file after completing your task.**
 
----
+<br>
+
 
 ### Hacktoberfest 2024 Tasks 🌈
 
@@ -66,13 +70,15 @@ Hacktoberfest is a month-long celebration from October 1 to October 31, organize
 
 Check the [Contributing Guidelines](https://github.com/Kushal997-das/Hacktoberfest-2024/blob/master/CONTRIBUTING.md) for more information.
 
----
+<br>
+
 
 ### Need Help? 🤔
 
 If you have any questions, feel free to ask [here](https://github.com/Kushal997-das/Hacktoberfest-2024/discussions/categories/q-a).
 
----
+<br>
+
 
 ### Helpful Resources 🛠️
 
