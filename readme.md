@@ -1,23 +1,29 @@
 
+
 <a href="https://github.com/Kushal997-das/Hacktoberfest-2024/">
   <img align='center' height="30" src="https://img.shields.io/badge/Hacktoberfest-2024-orange.svg?&style=for-the-badge&logo=KD&logoColor=blue" />
 </a> <br>
 
 ## Welcome to Hacktoberfest 2024! 🎉
 
-This repository is designed to help beginners make their first successful pull request and contribute to open source.
+This repository is designed to help beginners make their first successful pull request and contribute to open source. 🌱
 
 ### What is Hacktoberfest? 🤔
 
-Hacktoberfest is a month-long celebration from October 1 to October 31, organized by [DigitalOcean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/), in collaboration with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest). It's a fantastic opportunity to engage with the open-source community by creating your first pull request to any public repository on GitHub.
+Hacktoberfest is a month-long celebration from October 1 to October 31, organized by [DigitalOcean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/), in collaboration with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest). It's a fantastic opportunity to engage with the open-source community by creating your first pull request to any public repository on GitHub. 🌍
 
-### How to Get Started
+### How to Get Started 🚀
 
 1. **Register for Hacktoberfest**: Visit the [Hacktoberfest registration page](https://hacktoberfest.digitalocean.com/) and sign in with your GitHub credentials. Be sure to read the rules carefully before registering.
 
 ### Learn More 📚✨
 
-For a deeper understanding of the Hacktoberfest program, check out this article: [Hacktoberfest Overview](https://hacktoberfest.digitalocean.com/overview). To grasp essential Git concepts, refer to this guide: [Understanding Git Basics](https://www.atlassian.com/git/tutorials/learn-git).
+These resources are essential for your Hacktoberfest journey:
+
+- **[Hacktoberfest Overview](https://hacktoberfest.digitalocean.com/overview)**: Gain a comprehensive understanding of the Hacktoberfest program.
+  
+- **[Understanding Git Basics](https://www.atlassian.com/git/tutorials/learn-git)**: Master the fundamental concepts of Git.
+
 
 ### Eligibility Criteria 🚫
 
@@ -45,7 +51,7 @@ Create a new folder for your programming question and its solution. The structur
 └── <solution> (Solution file in any language: C, Java, Python, etc.)
 ```
 
-Don't forget to add your name and GitHub username [here](https://github.com/Kushal997-das/Hacktoberfest-2024/blob/master/1.%20Beginner%20level/TASK%20%231/data.json).
+Don't forget to add your name and GitHub username [here](https://github.com/Kushal997-das/Hacktoberfest-2024/blob/master/1.%20Beginner%20level/TASK%20%231/data.json). 📝
 
 <img height="30" src="https://img.shields.io/badge/Intermediate%20level-red.svg?&style=for-the-badge&logo=Beginner%20level&logoColor=blue" />
 
@@ -66,7 +72,7 @@ Don't forget to add your name and GitHub username [here](https://github.com/Kush
 </table>
 ```
 
-After submitting, add your profile details in [data.json](https://github.com/Kushal997-das/Hacktoberfest-2024/blob/master/1.%20Beginner%20level/TASK%20%232/data.json).
+After submitting, add your profile details in [data.json](https://github.com/Kushal997-das/Hacktoberfest-2024/blob/master/1.%20Beginner%20level/TASK%20%232/data.json). 📅
 
 ## Contributing Guidelines 🤝
 
@@ -76,7 +82,7 @@ Check the [Contributing Guidelines](https://github.com/Kushal997-das/Hacktoberfe
 
 If you have any questions, feel free to ask [here](https://github.com/Kushal997-das/Hacktoberfest-2024/discussions/categories/q-a).
 
-### Helpful Resources:
+### Helpful Resources 🛠️:
 - [Forking a Repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo)
 - [Creating a Pull Request](https://opensource.com/article/19/7/create-pull-request-github)
 - [Getting Started with Git and GitHub](https://towardsdatascience.com/getting-started-with-git-and-github-6fcd0f2d4ac6)
