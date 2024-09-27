@@ -34,8 +34,8 @@ To qualify for the **official limited edition Hacktoberfest shirt**, you must re
 
 ### Choose from these tasks:
 
-- [Beginner Level 📁](https://github.com/Kushal997-das/Hacktoberfest-2024/tree/master/1.%20Beginner%20level)
-- [Intermediate Level 📁]()
+- Beginner Level 📁
+- Intermediate Level 📁
 
 
 <img height="30" src="https://img.shields.io/badge/Beginner level-green.svg?&style=for-the-badge&logo=Beginner level&logoColor=blue" />
