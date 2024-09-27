@@ -1,4 +1,4 @@
-<a href="https://github.com/Kushal997-das/Hacktoberfest-2021/"><img align='center' height="30" src="https://img.shields.io/badge/Hacktoberfest-2023-orange.svg?&style=for-the-badge&logo=KD&logoColor=blue" /></a> <br><be>
+<a href="https://github.com/Kushal997-das/Hacktoberfest-2021/"><img align='center' height="30" src="https://img.shields.io/badge/Hacktoberfest-2024-orange.svg?&style=for-the-badge&logo=KD&logoColor=blue" /></a> <br><be>
 
 <!-- <p align="center"><img src="https://user-images.githubusercontent.com/61356005/209368532-ab56678f-175a-4917-81bd-d4bfb9774fc9.jpg" alt="Web Developement Image" width=855px /> -->
 
@@ -26,7 +26,7 @@ To qualify for the __official limited edition Hacktoberfest shirt__, you must re
  
 *	```⚠️⚠️ Same Programming questions will not be accepted ⚠️⚠️```
 *	`Star & Fork the Repository 👇 repository.`
-* [this](https://github.com/Kushal997-das/Hacktoberfest-2021) <br>
+* [this](https://github.com/Kushal997-das/Hacktoberfest-2024) <br>
 *	```Must fill data.json file after completing your task```</br>
 
  
@@ -94,23 +94,9 @@ Add any programming question and its solution in a separate folder and make your
 
  <br>
 
-[AI Integrated Ludo Game](https://github.com/SamarpanCoder2002/AI-Integrated-Ludo-Game.git)
-
- |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs 😎  |
-|-------------|-------------------|---|---|
-| [**AI Integrated Ludo Game**](https://github.com/SamarpanCoder2002/AI-Integrated-Ludo-Game) | [![GitHub issues](https://img.shields.io/github/issues/SamarpanCoder2002/AI-Integrated-Ludo-Game?color=green&logo=github&style=flat)](https://github.com/SamarpanCoder2002/AI-Integrated-Ludo-Game/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/SamarpanCoder2002/AI-Integrated-Ludo-Game?style=flat&logo=github)](https://github.com/SamarpanCoder2002/AI-Integrated-Ludo-Game/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/SamarpanCoder2002/AI-Integrated-Ludo-Game?style=flat&color=critical&logo=github)](https://github.com/SamarpanCoder2002/AI-Integrated-Ludo-Game/pulls?q=is%3Apr+is%3Aclosed)   |
 
 
 
-
-
- <br>
-
-[Mr. Pomodoro](https://github.com/SamarpanCoder2002/Mr-Pomodoro.git)
-
- |      Project :octocat:   |     Issues :bug:   | Open PRs :bell:  | Closed PRs 😎  |
-|-------------|-------------------|---|---|
-| [**Mr. Pomodoro**](https://github.com/SamarpanCoder2002/Mr-Pomodoro) | [![GitHub issues](https://img.shields.io/github/issues/SamarpanCoder2002/Mr-Pomodoro?color=green&logo=github&style=flat)](https://github.com/SamarpanCoder2002/Mr-Pomodoro/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/SamarpanCoder2002/Mr-Pomodoro?style=flat&logo=github)](https://github.com/SamarpanCoder2002/Mr-Pomodoro/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/SamarpanCoder2002/Mr-Pomodoro?style=flat&color=critical&logo=github)](https://github.com/SamarpanCoder2002/Mr-Pomodoro/pulls?q=is%3Apr+is%3Aclosed)   |
 
 
 
