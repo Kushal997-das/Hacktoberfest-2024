@@ -6,7 +6,8 @@
 
 This repository is designed to help beginners make their first successful pull request and contribute to open source. 🌱
 
-![hero](https://github.com/user-attachments/assets/c0d7f752-2682-454f-b815-35a0b9bba73d)
+![opengraph 9dc60c9d](https://github.com/user-attachments/assets/50bdc4c9-1cd2-45cd-84b5-1ec362f8e903)
+
 
 ---
 
