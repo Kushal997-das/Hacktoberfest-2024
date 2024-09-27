@@ -63,7 +63,7 @@ Hacktoberfest is a month-long celebration from October 1 to October 31, organize
            </tr>
          </table>
          ```
-     - After submitting, add your profile details in [data.json](https://github.com/Kushal997-das/Hacktoberfest-2024/blob/master/1.%20Beginner%20level/TASK%20%232/data.json). 📅
+     - After submitting, add your profile details in [data.json](https://github.com/Kushal997-das/Hacktoberfest-2024/blob/master/Intermediate%20Level%20%F0%9F%93%81/data.json). 📅
 
 ---
 
