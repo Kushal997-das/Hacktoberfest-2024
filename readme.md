@@ -46,7 +46,7 @@ Hacktoberfest is a month-long celebration from October 1 to October 31, organize
        ├── question.md
        └── <solution> (Solution file in any language: C, Java, Python, etc.)
        ```
-     - Don't forget to add your name and GitHub username [here](https://github.com/Kushal997-das/Hacktoberfest-2024/blob/master/1.%20Beginner%20level/TASK%20%231/data.json). 📝
+     - Don't forget to add your name and GitHub username [here](https://github.com/Kushal997-das/Hacktoberfest-2024/blob/master/Beginner%20Level%20%F0%9F%93%81/data.json). 📝
 
 2. **[Intermediate Level 📁](https://github.com/Kushal997-das/Hacktoberfest-2024/blob/master/readme.md#task-1-add-your-program-question-and-solution-)**
    - **Task 2**: [Submit Your Own Portfolio Page / GitHub Profile](https://github.com/Kushal997-das/Hacktoberfest-2024/tree/master/1.%20Beginner%20level/TASK%20%232) 📄
