@@ -19,9 +19,6 @@ This repository is designed to help beginners make their first successful pull r
 
 Hacktoberfest is a month-long celebration from October 1 to October 31, organized by [DigitalOcean](https://hacktoberfest.digitalocean.com/) and [DEV Community](https://dev.to/), in collaboration with [GitHub](https://github.com/blog/2433-celebrate-open-source-this-october-with-hacktoberfest). It's a great opportunity to get involved in the open-source community by creating your first pull request to any public repository on GitHub.
 
-### Rules 🔥
-
-To qualify for the **official limited edition Hacktoberfest shirt**, you must register [here](https://hacktoberfest.digitalocean.com/) and make four pull requests (PRs) between October 1-31, 2024. PRs can be submitted to any public repository, not just those labeled for Hacktoberfest. This year, the **first 70,000** participants to complete the challenge will earn a T-shirt.
 
 ### Eligibility Criteria 🚫
 
