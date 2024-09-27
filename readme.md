@@ -52,6 +52,8 @@ Create a new folder for your programming question and its solution. The structur
 
 Don’t forget to add your name and GitHub username [here](https://github.com/Kushal997-das/Hacktoberfest-2024/blob/master/1.%20Beginner%20level/TASK%20%231/data.json).
 
+ <img height="30" src="https://img.shields.io/badge/Intermediate level -red.svg?&style=for-the-badge&logo=Beginner level&logoColor=blue" />
+
 #### Task 2: [Submit Your Own Portfolio Page / GitHub Profile](https://github.com/Kushal997-das/Hacktoberfest-2024/tree/master/1.%20Beginner%20level/TASK%20%232) 📄
 
 **How to Add Your Portfolio**:
@@ -71,15 +73,9 @@ Don’t forget to add your name and GitHub username [here](https://github.com/Ku
 
 After submitting, add your profile details in [data.json](https://github.com/Kushal997-das/Hacktoberfest-2024/blob/master/1.%20Beginner%20level/TASK%20%232/data.json).
 
- <img height="30" src="https://img.shields.io/badge/Intermediate level -blue.svg?&style=for-the-badge&logo=Beginner level&logoColor=blue" />
 
-You can also contribute to other projects:
 
-- [Project Guidance](https://github.com/Kushal997-das/Project-Guidance)
 
-| Project :octocat:   | Issues :bug:   | Open PRs :bell:  | Closed PRs 😎  |
-|---------------------|----------------|-------------------|-----------------|
-| [**Project Guidance**](https://github.com/Kushal997-das/Project-Guidance) | [![GitHub issues](https://img.shields.io/github/issues/Kushal997-das/Project-Guidance?color=green&logo=github&style=flat)](https://github.com/Kushal997-das/Project-Guidance/issues) | [![GitHub PRs](https://img.shields.io/github/issues-pr/Kushal997-das/Project-Guidance?style=flat&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls)  | [![GitHub PRs](https://img.shields.io/github/issues-pr-closed/Kushal997-das/Project-Guidance?style=flat&color=critical&logo=github)](https://github.com/Kushal997-das/Project-Guidance/pulls?q=is%3Apr+is%3Aclosed)   |
 
 ## Contributing Guidelines 🤝
 
