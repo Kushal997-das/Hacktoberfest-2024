@@ -14,5 +14,6 @@ jobs:
         with:
           issue-number: ${{ github.event.pull_request.number }}
           body: |
-            @${{ github.event.pull_request.user.login }} <h3>Hurray! Your PR has been merged! 🥳</h3> Thank you so much for your contribution during <strong>Hacktoberfest 💖</strong>!
-Feel free to take on another issue 💖. We appreciate your support!
+            @${{ github.event.pull_request.user.login }} <h3>Hurray! Your PR has been merged! 🥳</h3>
+            Thank you so much for your contribution during <strong>Hacktoberfest 💖</strong>!
+            Feel free to take on another issue 💖. We appreciate your support!
