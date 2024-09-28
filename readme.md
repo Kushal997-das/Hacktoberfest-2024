@@ -8,7 +8,6 @@ This repository is designed to help beginners make their first successful pull r
 
 ![opengraph 9dc60c9d](https://github.com/user-attachments/assets/50bdc4c9-1cd2-45cd-84b5-1ec362f8e903)
 
-
 ---
 
 ### What is Hacktoberfest? 🤔
