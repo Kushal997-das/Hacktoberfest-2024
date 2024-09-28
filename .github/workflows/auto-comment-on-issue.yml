@@ -17,7 +17,7 @@ jobs:
           COMMENT=$(cat <<EOF
           {
             "body": "@${{ github.actor }} <h3>Welcome to the Project!</h3> Thanks for opening this <strong>Issue 🙌</strong>! We’re thrilled to have you join us for <strong>Hacktoberfest 💖</strong>.
-We’ll review your submission and get back to you shortly. In the meantime, don’t forget to give this repo a star before making a fork! Thank you for your contribution! :)"
+            We’ll review your submission and get back to you shortly. In the meantime, don’t forget to give this repo a star before making a fork! Thank you for your contribution! :)"
           }
           EOF
           )
