@@ -85,8 +85,8 @@ If you have any questions, feel free to ask [here](https://github.com/Kushal997-
 
 These resources are essential for your Hacktoberfest journey:
 
-- **[Hacktoberfest Overview](https://hacktoberfest.digitalocean.com/overview)**: Gain a comprehensive understanding of the Hacktoberfest program.
-- **[Understanding Git Basics](https://www.atlassian.com/git/tutorials/learn-git)**: Master the fundamental concepts of Git.
+- **[Hacktoberfest Overview](https://kushaldas.hashnode.dev/hacktoberfest-everything-you-need-to-know)**: Gain a comprehensive understanding of the Hacktoberfest program.
+- **[Understanding Git Basics](https://kushaldas.hashnode.dev/essential-git-commands-a-beginners-guide-to-version-control)**: Master the fundamental concepts of Git.
 
 ---
 
