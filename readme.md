@@ -97,6 +97,10 @@ These resources are essential for your Hacktoberfest journey:
 </a>
 
 ---
+### [Badges 🌟](https://www.holopin.io/@kushal997das#badges) 
+[![An image of @kushal997das's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/kushal997das)](https://holopin.io/@kushal997das)
+
+---
 
 :tada: :confetti_ball: **Happy Contributing!** :confetti_ball: :tada:
 
