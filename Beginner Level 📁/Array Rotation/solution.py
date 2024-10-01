@@ -1,35 +1,30 @@
-# Fn for reversal algorithm of array rotation
+def swap(arr, i, j):
+    temp = arr[i]
+    arr[i] = arr[j]
+    arr[j] = temp
 
-def Utility(array, low, high):
-    while low < high:
-        temp = array[low]    # storing first element to  var. temp
-        array[low] = array[high]  #  storing hth element to positon array [l]
-        array[high] = temp   #  storing temp  to positon array [h]
-        low += 1
-        high -= 1
+def reverse(arr, start, end):
+    while start < end:
+        swap(arr, start, end)
+        start += 1
+        end -= 1
 
-
-def left_rotate(arr, shift):
-    if shift == 0:    #incase, shift = 0, original array should be returned
-        return
+def left_rotate(arr, d):
     n = len(arr)
-    shift = shift % n   # shift > n ; shift = shift % len(array)
+    d %= n  # Handle shifts greater than array length
+    if d == 0:
+        return  # No rotation needed
 
-    Utility(arr, 0, shift-1)
-    Utility(arr, shift, n-1)
-    Utility(arr, 0, n-1)
+    reverse(arr, 0, d - 1)  # Reverse the first d elements
+    reverse(arr, d, n - 1)  # Reverse the remaining elements
+    reverse(arr, 0, n - 1)  # Reverse the entire array
 
-
-# to print the changed array
 def print_array(arr):
-    for i in range(0, len(arr)):
-        print(arr[i], end=" ")
+    print(*arr)  # Print the array elements in a more concise way
 
+if __name__ == "__main__":
+    arr = [1, 2, 3, 4, 5, 6, 7]
+    d = 2  # Number of positions to rotate left
 
-# Driver's code
-arr = [1, 2, 3, 4]
-n = len(arr)
-shift = 1
-
-left_rotate(arr, shift)
-print_array(arr)
+    left_rotate(arr, d)
+    print_array(arr)
