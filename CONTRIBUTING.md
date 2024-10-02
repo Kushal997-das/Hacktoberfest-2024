@@ -27,7 +27,7 @@ Welcome to Hacktoberfest 2024! 🎉 We're excited to help beginners make their f
 
 ## How to Contribute
 
-1. **Star this Repository**: Hacktoberfest-2024.
+1. **Star this Repository**: Hacktoberfest-2024. (`Important`)
 2. **Fork the Repository**.
 3. **Clone Your Fork**:
    ```bash
