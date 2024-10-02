@@ -15,8 +15,8 @@ public:
             map[nums[i]]++;
         }
         return -1; 
+    }
 };
-}
 
 int main() {
     Solution solution;
