@@ -14,13 +14,19 @@ jobs:
         uses: actions/github-script@v6
         with:
           script: |
-            const response = await github.activity.checkRepoIsStarred({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              star: context.payload.sender.login,
+            const { owner, repo } = context.repo;
+            const user = context.payload.sender.login;
+
+            // Check if the repo is starred by the user
+            const response = await github.request('GET /user/starred/{owner}/{repo}', {
+              owner: owner,
+              repo: repo,
+              headers: {
+                authorization: `token ${process.env.GITHUB_TOKEN}`
+              }
             });
 
-            if (!response.data) {
+            if (response.status !== 204) {
               const message = "Please star this repository before opening an issue or pull request.";
               await github.issues.createComment({
                 ...context.repo,
