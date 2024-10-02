@@ -1,0 +1,36 @@
+name: Star Check
+
+on:
+  pull_request:
+    types: [opened, reopened]
+  issues:
+    types: [opened]
+
+jobs:
+  check_star:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check if repository is starred
+        uses: actions/github-script@v6
+        with:
+          script: |
+            const response = await github.activity.checkRepoIsStarred({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              star: context.payload.sender.login,
+            });
+
+            if (!response.data) {
+              const message = "Please star this repository before opening an issue or pull request.";
+              await github.issues.createComment({
+                ...context.repo,
+                issue_number: context.issue.number,
+                body: message,
+              });
+              // Optionally close the issue or pull request
+              // await github.issues.update({
+              //   ...context.repo,
+              //   issue_number: context.issue.number,
+              //   state: 'closed',
+              // });
+            }
