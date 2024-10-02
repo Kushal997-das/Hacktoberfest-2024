@@ -39,6 +39,7 @@ Hacktoberfest is a month-long celebration from October 1 to October 31, organize
 
 1. **[Beginner Level 📁](https://github.com/Kushal997-das/Hacktoberfest-2024/blob/master/readme.md#task-1-add-your-program-question-and-solution-)**
    - **Task 1**: [Add Your Program Question and Solution](https://github.com/Kushal997-das/Hacktoberfest-2024/tree/master/1.%20Beginner%20level/TASK%20%231) 😇
+     - **Before you start**, please **star ⭐ this repo** and open an issue related to your programming question or solution.
      - Create a new folder for your programming question and its solution. The structure should look like this:
        ```
        <name of program>/
@@ -49,6 +50,7 @@ Hacktoberfest is a month-long celebration from October 1 to October 31, organize
 
 2. **[Intermediate Level 📁](https://github.com/Kushal997-das/Hacktoberfest-2024/blob/master/readme.md#task-1-add-your-program-question-and-solution-)**
    - **Task 2**: [Submit Your Own Portfolio Page / GitHub Profile](https://github.com/Kushal997-das/Hacktoberfest-2024/tree/master/1.%20Beginner%20level/TASK%20%232) 📄
+     - **Before you start**, please **star ⭐ this repo** and open an issue related to your portfolio submission.
      - **How to Add Your Portfolio**:
        - Create a new folder with your GitHub `username`.
        - Add your portfolio `Image` file there.
@@ -66,6 +68,7 @@ Hacktoberfest is a month-long celebration from October 1 to October 31, organize
      - After submitting, add your profile details in [data.json](https://github.com/Kushal997-das/Hacktoberfest-2024/blob/master/Intermediate%20Level%20%F0%9F%93%81/data.json). 📅
 
 ---
+
 
 ### Contributing Guidelines 🤝
 
