@@ -1,5 +1,0 @@
-This is a password generator made using python. 
-It has an option to select the length of password required.
-Hope you like it.
-
-Happy Coding!!!
