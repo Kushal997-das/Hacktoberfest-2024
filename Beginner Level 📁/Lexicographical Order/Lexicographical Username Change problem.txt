@@ -1,0 +1,9 @@
+### Problem: Lexicographical Username Change
+
+#### Description:
+The problem involves determining whether a username can be lexicographically reduced by swapping exactly two characters in the string. The goal is to check for each username if a lexicographically smaller string can be formed by one swap.
+
+#### Steps to Reproduce:
+1. Input: List of usernames.
+2. Check if a lexicographically smaller username can be formed by swapping two characters.
+3. Return "YES" if possible, otherwise "NO."
