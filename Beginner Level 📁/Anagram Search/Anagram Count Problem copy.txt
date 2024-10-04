@@ -1,0 +1,16 @@
+# Problem Description for "Anagram Search"
+
+## Problem Statement:
+Given two arrays of strings `dictionary` and `query`, for each string in `query`, determine how many anagrams of it are present in `dictionary`.
+
+## Input:
+- Two arrays of strings: `dictionary` and `query`.
+- `dictionary` contains a list of words, and `query` contains the words you need to check for anagrams in the dictionary.
+
+## Output:
+- For each string in `query`, return the number of anagrams present in the `dictionary`.
+
+
+
+## Constraints:
+- 1 ≤ length of each string ≤ 15
