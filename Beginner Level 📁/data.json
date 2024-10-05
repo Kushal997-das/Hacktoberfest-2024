@@ -7,7 +7,11 @@
   },
 
   // Add your details below as above mention
-
+  {
+    "name": "Pratham Jain",
+    "githubUsername": "MPrathamjain"
+  },
+  
   {
     "name": "Sharan Swaroop",
     "githubUsername": "S-Swaroop"
