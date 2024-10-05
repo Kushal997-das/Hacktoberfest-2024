@@ -6,3 +6,11 @@
             </td>
           </tr>
 </table>
+<table width="100%">
+  <tr>
+    <td align="center">
+      <img src="./Ayesha_portfolio.jpeg" height="250" width="300" />
+      <p><a href="https://ayesha19297-portfolio.netlify.app/">Ayesha</a></p>
+    </td>
+  </tr>
+</table>
