@@ -86,7 +86,7 @@
     "githubUsername": "parthkgh24"
   },
 
- {
+  {
   "name": "Afzal Khan",
   "githubUsername": "afzall-khan",
 },
@@ -98,14 +98,14 @@
 {
     "name": "Reidho Satria",
     "githubUsername": "Eilaluth",
- },
+  },
 { 
     "name": "Jill Oestreicher",
     "githubUsername": "jilloestreicher",
 },
   {
-     "name": "Debargha Mukherjee",
-     "githubUsername": "Debargha-arch",
+    "name": "Debargha Mukherjee",
+    "githubUsername": "Debargha-arch",
   },
   {
     "name": "Aryan Singh",
@@ -119,10 +119,10 @@
     "name": "Siddhant Kaura",
     "githubUsername": "SiddhantKaura" 
   },
-{
+  {
     "name": "Atherv Patil",
     "githubUsername": "ColonelAVP",
- },
+  },
   
     {
     "name": "Lisa V Cherian",
@@ -144,6 +144,10 @@
   {
     "name": "Vimal M",
     "githubUsername": "vimall03"
+  },
+  {
+    "name": "Ansh sharma",
+    "githubUsername": "Ultimecia1463"
   },
 
 ]
