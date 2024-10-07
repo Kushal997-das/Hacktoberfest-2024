@@ -6,3 +6,11 @@
             </td>
           </tr>
 </table>
+<table width="100%">
+  <tr>
+    <td align="center">
+       <img src="./damarudhvarma/my_github_profile.png" height="250" width="300" />
+      <p><a href="https://github.com/damarudhvarma">Damarudh Varma</a></p>
+     </td>
+  </tr>
+</table>
