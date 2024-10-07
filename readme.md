@@ -108,7 +108,7 @@ These resources are essential for your Hacktoberfest journey:
 :tada: :confetti_ball: **Happy Contributing!** :confetti_ball: :tada:
 
 ```
-     _____ _                 _     __   __          
+  _____ _                 _     __   __          
  |_   _| |__   __ _ _ __ | | __ \ \ / /__  _   _ 
    | | | '_ \ / _` | '_ \| |/ /  \ V / _ \| | | |
    | | | | | | (_| | | | |   <    | | (_) | |_| |
