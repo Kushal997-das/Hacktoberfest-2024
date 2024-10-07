@@ -16,7 +16,6 @@ public class solution {
             max = Math.max(max, trails.get(i)); // Find the maximum trail for the remaining part
         }
 
-        // Add the maximum value from the remaining trails to the sum
         sum += max;
 
         return sum;
