@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Grades Calc</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="shortcut icon"
+        href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0DS7uOPfhogD7OxmDKx7JAFqH5zPBmwAbnQ&s"
+        type="image/x-icon">
+</head>
+
+<body>
+    <div class="container">
+        <div class="heading">
+            <h2>Student Grades Calc</h2>
+        </div>
+        <div class="layout">
+            <div class="layout-left">
+                <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0DS7uOPfhogD7OxmDKx7JAFqH5zPBmwAbnQ&s"
+                    alt="img">
+                <h3>Calculator</h3>
+            </div>
+            <div class="layout-right">
+                <input type="number" placeholder="Marks in 1st subject" class="marks sub-1" min="0" max="100">
+                <input type="number" placeholder="Marks in 2nd subject" class="marks sub-2" min="0" max="100">
+                <input type="number" placeholder="Marks in 3rd subject" class="marks sub-3" min="0" max="100">
+                <input type="number" placeholder="Marks in 4th subject" class="marks sub-4" min="0" max="100">
+                <input type="number" placeholder="Marks in 5th subject" class="marks sub-5" min="0" max="100">
+                <input type="number" placeholder="Marks in 6th subject" class="marks sub-6" min="0" max="100">
+
+                <input type="submit" value="Calculate" onclick="calculate()" id="calc_btn">
+            </div>
+        </div>
+        <div>
+            <h3 id="result"></h3>
+        </div>
+    </div>
+
+    <script src="index.js"></script>
+</body>
+
+</html>
