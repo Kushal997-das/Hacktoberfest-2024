@@ -6,7 +6,7 @@ public class solution{
         System.out.println();
     }
 
-    public static void resizeArray(int[] number, int start, int end){
+    public static void reversedArray(int[] number, int start, int end){
         while(start<end){
             int temp = number[start];
             number[start] = number[end];
@@ -21,8 +21,8 @@ public class solution{
         System.out.println("Initial Array");
         printArray(arr);
 
-        System.out.println("Resized Array");
-        resizeArray(arr, 0, (arr.length-1));
+        System.out.println("Reversed Array");
+        reversedArray(arr, 0, (arr.length-1));
         printArray(arr);
         
     }
