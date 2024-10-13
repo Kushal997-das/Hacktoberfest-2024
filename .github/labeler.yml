@@ -1,0 +1,11 @@
+hacktoberfest:
+  - changed-files:
+    - any-glob-to-any-file: '**'
+
+hack-docs-contrib:
+- changed-files:
+  - any-glob-to-any-file: '**/*.md'
+
+hack-code-contrib:
+- changed-files:
+  - any-glob-to-any-file: ['**/*.ts', '**/*.js', '**/*.html', '**/*.json']
