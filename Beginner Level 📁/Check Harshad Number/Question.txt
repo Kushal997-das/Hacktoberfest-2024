@@ -1,0 +1,12 @@
+Question:
+
+Write a program to check given number is Harshad number or not?
+
+What is Harshad number:
+
+Harshad number is the sum of digits in the number is divisible by the given number and the remainder becomes zero.
+
+Ex 1:
+
+45 => 45 % (4+5) = 45 % 9 == 0 (Harshad number)
+46 => 46 % (4+6) = 45 % 10 != 0 (Not Harshad number)
