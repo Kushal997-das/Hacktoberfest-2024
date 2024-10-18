@@ -1,12 +1,8 @@
-<!-- DO NOT EDIT THIS SECTION -->
-<!-- Just add your github account details -->
 [
   {
     "name": "Vipul Vaishnav",
     "githubUsername": "vipul-vaishnav"
   },
-
-  // Add your details below as above mention
 
   {
     "name": "Sharan Swaroop",
@@ -27,18 +23,15 @@
     "name": "Swapna Devi",
     "githubUsername": "Swapna804"
   },
-  
+
   {
     "name": "Shyam Sundar Vashishtha",
     "githubUsername": "shyam640"
-
   },
-
 
   {
     "name": "Surbhi Mayank",
     "githubUsername": "surbhi2408"
-
   },
 
   {
@@ -86,45 +79,45 @@
     "githubUsername": "parthkgh24"
   },
 
- {
-  "name": "Afzal Khan",
-  "githubUsername": "afzall-khan",
-},
+  {
+    "name": "Afzal Khan",
+    "githubUsername": "afzall-khan"
+  },
 
   {
     "name": "Thejasree Kilari",
     "githubUsername": "ThejasreeKilari"
   },
-{
-    "name": "Reidho Satria",
-    "githubUsername": "Eilaluth",
- },
-{ 
-    "name": "Jill Oestreicher",
-    "githubUsername": "jilloestreicher",
-},
   {
-     "name": "Debargha Mukherjee",
-     "githubUsername": "Debargha-arch",
+    "name": "Reidho Satria",
+    "githubUsername": "Eilaluth"
+  },
+  {
+    "name": "Jill Oestreicher",
+    "githubUsername": "jilloestreicher"
+  },
+  {
+    "name": "Debargha Mukherjee",
+    "githubUsername": "Debargha-arch"
   },
   {
     "name": "Aryan Singh",
     "githubUsername": "chipper1211"
   },
   {
-      "name": "Amit Zope",
-      "githubUsername": "amitsat27" 
+    "name": "Amit Zope",
+    "githubUsername": "amitsat27"
   },
   {
     "name": "Siddhant Kaura",
-    "githubUsername": "SiddhantKaura" 
+    "githubUsername": "SiddhantKaura"
   },
-{
+  {
     "name": "Atherv Patil",
-    "githubUsername": "ColonelAVP",
- },
-  
-    {
+    "githubUsername": "ColonelAVP"
+  },
+
+  {
     "name": "Lisa V Cherian",
     "githubUsername": "LisaVCherian"
   },
@@ -133,11 +126,11 @@
     "githubUsername": "gktc"
   },
 
-    {
+  {
     "name": "Vinayaka D",
     "githubUsername": "vd-37"
   },
-      {
+  {
     "name": "Ramanpreet Kaur",
     "githubUsername": "1998ramanpreet"
   },
@@ -145,6 +138,8 @@
     "name": "Vimal M",
     "githubUsername": "vimall03"
   },
-
+  {
+    "name": "Vivek Thakur",
+    "githubUsername": "vivek09thakur"
+  }
 ]
-
