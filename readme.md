@@ -94,9 +94,8 @@ These resources are essential for your Hacktoberfest journey:
 ---
 
 ### Awesome Contributors 🌟
-
-<a href="https://github.com/Kushal997-das/Hacktoberfest-2024/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Kushal997-das/Hacktoberfest-2024" />
+<a href="https://github.com/Crunchymon">
+  <img src="https://avatars.githubusercontent.com/u/147578560?s=400&u=cbdc7621fe4fe529f51600e23f19c253d02be8dc&v=4" />
 </a>
 
 ---
