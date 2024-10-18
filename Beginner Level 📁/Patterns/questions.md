@@ -12,5 +12,6 @@ Creating Patterns
 8.Inverted full pyramid of *
 9.Pascal's Triangle
 10.Floyd's Triangle
+11.Hollow Diamond *
 
 Refernce: programiz.com
